@@ -569,7 +569,6 @@ section {
   line-height: 0;
   z-index: -1;
   pointer-events: none;
-  background-image: url(/portals/0/Images/Banners/admissions/arches-classic-color.jpg);
   background-image: url(https://www.bhsu.edu/portals/0/Images/news-banner18.jpg);
   width: 100%;
   height: 500px;
@@ -1457,7 +1456,7 @@ video {
 }
 
 .rc-header-flag {
-  background-image: url('/Portals/_default/skins/bhsu18/img/applytoday-flag.png');
+  background-image: url('https://www.bhsu.edu/Portals/_default/skins/bhsu18/img/applytoday-flag.png');
   height: 70px;
   width: 250px;
   margin: 0;
@@ -1590,7 +1589,7 @@ video {
 
 
 .regButtonNew {
-  background-image: url("/Portals/_default/skins/bhsu18/img/callout/new-calloutbutton1-300w.jpg");
+  background-image: url("https://www.bhsu.edu/Portals/_default/skins/bhsu18/img/callout/new-calloutbutton1-300w.jpg");
   height: 112px;
   width: 280px;
   margin: 40px auto;
@@ -1598,7 +1597,7 @@ video {
 }
 
 .regButtonNew:hover {
-  background-image: url("/Portals/_default/skins/bhsu18/img/callout/new-calloutbutton1thick-300w.jpg");
+  background-image: url("https://www.bhsu.edu/Portals/_default/skins/bhsu18/img/callout/new-calloutbutton1thick-300w.jpg");
 
 }
 
@@ -1642,7 +1641,7 @@ video {
 }
 
 .regButtonCurr {
-  background-image: url("/Portals/_default/skins/bhsu18/img/callout/current-calloutbutton-300w.jpg");
+  background-image: url("https://www.bhsu.edu/Portals/_default/skins/bhsu18/img/callout/current-calloutbutton-300w.jpg");
   height: 112px;
   width: 280px;
   margin: 40px auto;
@@ -1651,7 +1650,7 @@ video {
 }
 
 .regButtonCurr:hover {
-  background-image: url("/Portals/_default/skins/bhsu18/img/callout/current-calloutbuttonthick-300w.jpg");
+  background-image: url("https://www.bhsu.edu/Portals/_default/skins/bhsu18/img/callout/current-calloutbuttonthick-300w.jpg");
 
 }
 
@@ -1677,7 +1676,7 @@ video {
 
 
 .holiday {
-  background-image: url("/Portals/0/images/holiday/holiday-background-2018.jpg");
+  background-image: url("https://www.bhsu.edu/Portals/0/images/holiday/holiday-background-2018.jpg");
   background-position: cover;
 }
 
@@ -3154,7 +3153,7 @@ a.rc-testi-box-button:link {
 /*special */
 
 .admissions-why-background {
-  background-image: url('/Portals/0/Admissions/images/background-admissions.jpg');
+  background-image: url('https://www.bhsu.edu/Portals/0/Admissions/images/background-admissions.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -5085,7 +5084,7 @@ a.tabLink {
 /* SP css */
 
 #primary_header {
-  background-image: url('../img/rc-primary-header.jpg');
+  background-image: url('https://www.bhsu.edu/portals/0/Images/Banners/RapidCity1450/rc-primary-header.jpg');
   background-size: cover;
   background-position: center;
 }
@@ -5882,14 +5881,14 @@ box-shadow: 1px 1px 1px;
 }
 
 #sust-about {
-  background: url(/portals/0/images/sustainability/front-menu/sust-about.png) no-repeat;
+  background: url(https://www.bhsu.edu/portals/0/images/sustainability/front-menu/sust-about.png) no-repeat;
   height: 90px;
   width: 243px;
   border-bottom: 2px solid #FFC726;
 }
 
 #sust-about:hover {
-  background: url(/portals/0/images/sustainability/front-menu/sust-about-hovery.png) no-repeat;
+  background: url(https://www.bhsu.edu/portals/0/images/sustainability/front-menu/sust-about-hovery.png) no-repeat;
 }
 
 #sust-middle {
@@ -5898,59 +5897,59 @@ box-shadow: 1px 1px 1px;
 }
 
 #sust-academics {
-  background: url(/portals/0/images/sustainability/front-menu/sust-academics.png) no-repeat;
+  background: url(https://www.bhsu.edu/portals/0/images/sustainability/front-menu/sust-academics.png) no-repeat;
   height: 90px;
   width: 243px;
   border-bottom: 2px solid #FFC726;
 }
 
 #sust-academics:hover {
-  background: url(/portals/0/images/sustainability/front-menu/sust-academics-hovery.png) no-repeat;
+  background: url(https://www.bhsu.edu/portals/0/images/sustainability/front-menu/sust-academics-hovery.png) no-repeat;
 }
 
 
 #sust-programs {
-  background: url(/portals/0/images/sustainability/front-menu/sust-programs.png) no-repeat;
+  background: url(https://www.bhsu.edu/portals/0/images/sustainability/front-menu/sust-programs.png) no-repeat;
   height: 90px;
   width: 243px;
 }
 
 #sust-programs:hover {
-  background: url(/portals/0/images/sustainability/front-menu/sust-programs-hovery.png) no-repeat;
+  background: url(https://www.bhsu.edu/portals/0/images/sustainability/front-menu/sust-programs-hovery.png) no-repeat;
 }
 
 #sust-campus {
-  background: url(/portals/0/images/sustainability/front-menu/sust-campus.png) no-repeat;
+  background: url(https://www.bhsu.edu/portals/0/images/sustainability/front-menu/sust-campus.png) no-repeat;
   height: 90px;
   width: 243px;
   border-bottom: 2px solid #FFC726;
 }
 
 #sust-campus:hover {
-  background: url(/portals/0/images/sustainability/front-menu/sust-campus-hovery.png) no-repeat;
+  background: url(https://www.bhsu.edu/portals/0/images/sustainability/front-menu/sust-campus-hovery.png) no-repeat;
 }
 
 
 #sust-students {
-  background: url(/portals/0/images/sustainability/front-menu/sust-students.png) no-repeat;
+  background: url(https://www.bhsu.edu/portals/0/images/sustainability/front-menu/sust-students.png) no-repeat;
   height: 90px;
   width: 243px;
   border-bottom: 2px solid #FFC726;
 }
 
 #sust-students:hover {
-  background: url(/portals/0/images/sustainability/front-menu/sust-students-hovery.png) no-repeat;
+  background: url(https://www.bhsu.edu/portals/0/images/sustainability/front-menu/sust-students-hovery.png) no-repeat;
 }
 
 
 #sust-happenings {
-  background: url(/portals/0/images/sustainability/front-menu/sust-happenings.png) no-repeat;
+  background: url(https://www.bhsu.edu/portals/0/images/sustainability/front-menu/sust-happenings.png) no-repeat;
   height: 90px;
   width: 243px;
 }
 
 #sust-happenings:hover {
-  background: url(/portals/0/images/sustainability/front-menu/sust-happenings-hovery.png) no-repeat;
+  background: url(https://www.bhsu.edu/portals/0/images/sustainability/front-menu/sust-happenings-hovery.png) no-repeat;
 }
 
 @media (max-width:320px) {
