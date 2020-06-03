@@ -1,21 +1,21 @@
 @font-face {
     font-family: BebasNeue;
-    src: url('BebasNeue.ttf') format('truetype'),
-         url('BebasNeueRegular.otf') format('opentype'),
-         url('BebasNeueRegular.woff') format('woff');
+    src: url('/BebasNeue.ttf') format('truetype'),
+         url('/BebasNeueRegular.otf') format('opentype'),
+         url('/BebasNeueRegular.woff') format('woff');
     font-display: swap; 
 }
 @font-face {
     font-family: BebasThin;
-    src: url('BebasNeueThin.ttf')format('truetype'),
-         url('BebasNeueThin.otf') format('opentype'),
-         url('BebasNeueThin.woff') format('woff');
+    src: url('/BebasNeueThin.ttf')format('truetype'),
+         url('/BebasNeueThin.otf') format('opentype'),
+         url('/BebasNeueThin.woff') format('woff');
     font-display: swap; 
 }
 
 @font-face {
     font-family: Foro;
-    src: url('ForoMed.otf')format('truetype');
+    src: url('/ForoMed.otf')format('truetype');
     font-display: swap; 
 }
 @keyframes link-hover {
