@@ -570,7 +570,7 @@ section {
   z-index: -1;
   pointer-events: none;
   background-image: url(/portals/0/Images/Banners/admissions/arches-classic-color.jpg);
-  background-image: url(/portals/0/Images/news-banner18.jpg?ver=2018-09-05-141754-563);
+  background-image: url(https://www.bhsu.edu/portals/0/Images/news-banner18.jpg);
   width: 100%;
   height: 500px;
   background-size: cover;
