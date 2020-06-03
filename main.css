@@ -1,21 +1,21 @@
 @font-face {
     font-family: BebasNeue;
-    src: url('/BebasNeue.ttf') format('truetype'),
-         url('/BebasNeueRegular.otf') format('opentype'),
-         url('/BebasNeueRegular.woff') format('woff');
+    src: url('https://sleepy-beaver-08ca04.netlify.app/BebasNeue.ttf') format('truetype'),
+         url('https://sleepy-beaver-08ca04.netlify.app/BebasNeueRegular.otf') format('opentype'),
+         url('https://sleepy-beaver-08ca04.netlify.app/BebasNeueRegular.woff') format('woff');
     font-display: swap; 
 }
 @font-face {
     font-family: BebasThin;
-    src: url('/BebasNeueThin.ttf')format('truetype'),
-         url('/BebasNeueThin.otf') format('opentype'),
-         url('/BebasNeueThin.woff') format('woff');
+    src: url('https://sleepy-beaver-08ca04.netlify.app/BebasNeueThin.ttf')format('truetype'),
+         url('https://sleepy-beaver-08ca04.netlify.app/BebasNeueThin.otf') format('opentype'),
+         url('https://sleepy-beaver-08ca04.netlify.app/BebasNeueThin.woff') format('woff');
     font-display: swap; 
 }
 
 @font-face {
     font-family: Foro;
-    src: url('/ForoMed.otf')format('truetype');
+    src: url('https://sleepy-beaver-08ca04.netlify.app/ForoMed.otf')format('truetype');
     font-display: swap; 
 }
 @keyframes link-hover {
