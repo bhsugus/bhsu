@@ -1,27 +1,21 @@
 @font-face {
     font-family: BebasNeue;
-    src: url('/Portals/_default/skins/bhsu18/fonts/BebasNeue.ttf') format('truetype'),
-         url('/Portals/_default/skins/bhsu18/fonts/BebasNeueRegular.otf') format('opentype'),
-         url('/Portals/_default/skins/bhsu18/fonts/BebasNeueRegular.woff') format('woff');
+    src: url('https://www.bhsu.edu/Portals/_default/skins/bhsu18/fonts/BebasNeue.ttf') format('truetype'),
+         url('https://www.bhsu.edu/Portals/_default/skins/bhsu18/fonts/BebasNeueRegular.otf') format('opentype'),
+         url('https://www.bhsu.edu/Portals/_default/skins/bhsu18/fonts/BebasNeueRegular.woff') format('woff');
     font-display: swap; 
 }
 @font-face {
     font-family: BebasThin;
-    src: url('/Portals/_default/skins/bhsu18/fonts/BebasNeueThin.ttf')format('truetype'),
-         url('/Portals/_default/skins/bhsu18/fonts/BebasNeueThin.otf') format('opentype'),
-         url('/Portals/_default/skins/bhsu18/fonts/BebasNeueThin.woff') format('woff');
+    src: url('https://www.bhsu.edu/Portals/_default/skins/bhsu18/fonts/BebasNeueThin.ttf')format('truetype'),
+         url('https://www.bhsu.edu/Portals/_default/skins/bhsu18/fonts/BebasNeueThin.otf') format('opentype'),
+         url('https://www.bhsu.edu/Portals/_default/skins/bhsu18/fonts/BebasNeueThin.woff') format('woff');
     font-display: swap; 
 }
-@font-face {
-    font-family: BebasRegular;
-    src: url('/Portals/_default/skins/bhsu18/fonts/BebasNeue.ttf')format('truetype'),
-         url('/Portals/_default/skins/bhsu18/fonts/BebasNeue.otf') format('opentype'),
-         url('/Portals/_default/skins/bhsu18/fonts/BebasNeueRegular.woff') format('woff');
-    font-display: swap; 
-}
+
 @font-face {
     font-family: Foro;
-    src: url('/Portals/_default/skins/bhsu18/fonts/ForoMed.otf')format('truetype');
+    src: url('https://www.bhsu.edu/Portals/_default/skins/bhsu18/fonts/ForoMed.otf')format('truetype');
     font-display: swap; 
 }
 @keyframes link-hover {
