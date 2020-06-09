@@ -6318,7 +6318,7 @@ body {
 }
 
 .main-nav-menu {
-  font-family: BebasNeue;
+  font-family: BebasNeue, Roboto, sans-serif;
   /*width:800px; */
   /*margin: 20px auto;*/
   margin: 26px auto;
