@@ -5348,11 +5348,11 @@ box-shadow: 1px 1px 1px;
 }
 
 .rc-programs h3 {
-  color: #fff;
+  color: #FFC726;
   font-weight: bold;  
 }
 .rc-programs a {
-  color: FFC726;
+  color: #fff
 }
 
 .sp-side-menu {
