@@ -5346,7 +5346,11 @@ box-shadow: 1px 1px 1px;
 .new-programs {
   margin: 20px;
 }
-
+.rc-programs h1 {
+  color: #fff
+  font-weight: bold;
+  margin: 0 10px;
+}
 .rc-programs h3 {
   color: #FFC726;
   font-weight: bold;  
