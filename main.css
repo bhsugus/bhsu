@@ -5343,7 +5343,9 @@ box-shadow: 1px 1px 1px;
     text-align: center;*/
 }
 
-
+.new-programs {
+  margin: 20px
+}
 
 .sp-side-menu {
   margin-left: 0;
