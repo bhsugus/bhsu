@@ -5344,7 +5344,15 @@ box-shadow: 1px 1px 1px;
 }
 
 .new-programs {
-  margin: 20px
+  margin: 20px;
+}
+
+.rc-programs h3 {
+  color: #fff;
+  font-weight: bold;  
+}
+.rc-programs a {
+  color: FFC726;
 }
 
 .sp-side-menu {
