@@ -4551,6 +4551,9 @@ a.breadcrumbLink {
 .id-table td {
   font-size: 14px;
 }
+.id-table td span{
+  font-size: 16px;
+}
 
 
 .modal-body {
