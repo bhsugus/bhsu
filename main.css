@@ -290,6 +290,7 @@ section {
 
 #panel {
   overflow: hidden;
+  padding: 0;
 }
 
 .learn-more-link>a {
