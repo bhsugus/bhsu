@@ -4551,7 +4551,7 @@ a.breadcrumbLink {
 .id-table td {
   font-size: 14px;
 }
-.id-table td span{
+.id-table td strong{
   font-size: 16px;
 }
 
