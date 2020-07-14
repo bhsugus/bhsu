@@ -5363,7 +5363,6 @@ box-shadow: 1px 1px 1px;
   margin-left: 0;
 }
 
-
 .sp-side-menu ul li {
   background-color: rgba(0, 0, 0, .03);
   list-style-type: none;
@@ -7934,7 +7933,7 @@ width: 100%;
   }
 
   #rc-main-navigation {
-    background-color: rgba(0, 0, 0, 0);
+    background-color: #000;
     position: relative;
   }
 
