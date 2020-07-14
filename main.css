@@ -4548,6 +4548,9 @@ a.breadcrumbLink {
   display: table;
   margin: 0 auto !important;
 }
+.id-table span {
+  font-size: 14px;
+}
 
 
 .modal-body {
