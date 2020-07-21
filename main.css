@@ -3086,6 +3086,7 @@ a.rc-testi-box-button:link {
   color: #016234;
   font-family: Bebasneue, Oswald, sans-serif;
   font-size: 1.5em;
+  margin: 0;
 }
 
 .rc-blurb-scholarship-img {
