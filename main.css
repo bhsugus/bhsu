@@ -2363,6 +2363,7 @@ video {
   font-size: 2em;
   font-family: Bebasneue, Oswald, sans-serif;
   letter-spacing: .05em;
+  margin: 0;
 }
 
 .rc-start-directions p {
