@@ -4202,7 +4202,6 @@ figure.effect-goliath p {
   height: 200px
 }
 
-
 /* end mtn boxee */
 
 /* USA */
@@ -4240,9 +4239,28 @@ figure.effect-goliath p {
   opacity: 1;
 }
 
-
-
 /* end USA */
+
+
+/* Fance Table Rows */
+#coursework tr:nth-child(even) {background-color: #f2f2f2;}
+#coursework td {padding: 10px}
+.eventable tr:nth-child(odd) {background-color: #f2f2f2;}
+.dualcredit-table tr:nth-child(odd) {background-color: #f2f2f2;}
+
+.dualcredit-table {width:100%}
+
+.dualcredit-table thead tr td{
+    background-color: #006233;
+    font-size:13px;
+    color:#fff;
+    padding: 10px 3px;
+    font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif;
+    font-weight:bold
+}
+
+
+
 
 
 .experience-title {
