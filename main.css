@@ -4123,7 +4123,7 @@ figure.effect-goliath p {
 }
 
 #mtn-boxee::before {
-  background-image: url(/portals/0/images/home/mtn-boxee/Mountains-Outline.png);
+  background-image: url(https://www.bhsu.edu/portals/0/images/home/mtn-boxee/Mountains-Outline.png);
   background-position-x: center;
   content: "";
   background-size: cover;
