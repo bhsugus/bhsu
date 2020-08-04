@@ -2227,6 +2227,7 @@ video {
 #social-strip-icons img {
   margin: 10px;
 }
+
 /* Cascade */
 .social-strip {
   background-color: #04542e;
@@ -2240,6 +2241,7 @@ video {
 .social-strip-icons img {
   margin: 10px;
 }
+
 /* Cascade */
 
 
@@ -2269,7 +2271,10 @@ video {
   /*float: left;*/
   margin: 20px 15px;
 }
-
+#social-strip-title {
+  text-align: center;
+  font-size: 2em;
+}
 /* Cascade */
 .social-strip {
   padding: 0 20px;
@@ -2290,22 +2295,16 @@ video {
   font-size: 2em;
   float: right;
 }
-
+.social-strip-title {
+  text-align: center;
+  font-size: 2em;
+}
 .social-strip img {
   width: 35px;
   /*float: left;*/
   margin: 20px 15px;
 }
 /* Cascade */
-
-
-
-
-
-
-
-
-
 
 
 
@@ -7590,14 +7589,9 @@ width: 100%;
 
 
   /* mmm common */
-  #social-strip-title {
-    text-align: center;
-    font-size: 2em;
-  }
 
-  #social-strip-icons {
-    text-align: center
-  }
+
+
 
   .photo-box {
     height: auto;
@@ -7752,6 +7746,24 @@ width: 100%;
   #social-strip {
     height: auto;
   }
+/* cascade */
+  .social-strip img {
+    float: none;
+  }
+
+  .social-strip p {
+    text-align: center;
+    float: none;
+  }
+
+  .social-strip img {
+    width: 40px;
+  }
+
+  .social-strip {
+    height: auto;
+  }
+/* cascade */
 
   #rc-logo-wrap {
     height: 120px;
@@ -7974,7 +7986,7 @@ width: 100%;
   .become p {
     width: 100%
   }
-
+/* cascade */
   #social-strip p {
     margin: 0;
   }
@@ -7983,6 +7995,15 @@ width: 100%;
     height: auto;
     padding: 10px;
   }
+  .social-strip p {
+    margin: 0;
+  }
+
+  .social-strip {
+    height: auto;
+    padding: 10px;
+  }
+/* cascade */
 
   #ready h3 {
     padding: 15px
@@ -8063,11 +8084,16 @@ width: 100%;
     width: auto;
     margin-top: 20px;
   }
-
+/* cascade */
   #social-strip img {
     width: 35px;
     margin: 5px;
   }
+  .social-strip img {
+    width: 35px;
+    margin: 5px;
+  }
+/* cascade */
 
   #rc-main-navigation {
     background-color: #000;
