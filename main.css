@@ -567,6 +567,12 @@ section {
 
 }
 
+
+#panel {
+  overflow: hidden;
+  padding: 0;
+}
+
 .bhsu-bottom-divider {
   /* bottom: 0; */
 }
@@ -7886,16 +7892,7 @@ width: 100%;
     max-height: 300px !important;
   }
 
-  /* cascade? */
-  /*#panel {
-    overflow: visible;
-  }*/
-
-  #panel {
-    overflow: hidden;
-    padding: 0;
-  }
-
+ 
  
 
   .front-video-overlay2 h4 {
