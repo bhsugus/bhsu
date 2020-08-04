@@ -2243,6 +2243,71 @@ video {
 /* Cascade */
 
 
+/* Social Links Cascade */
+#social-strip {
+  padding: 0 20px;
+  height: 80px;
+  width: 100%;
+}
+
+#social-strip p {
+  margin: 9px 0 10px;
+  font-size: 2.7em;
+  font-family: Bebasneue, Oswald, sans-serif;
+  float: right;
+  text-align: center;
+}
+
+#social-strip span {
+  font-family: Bebasneue, Oswald, sans-serif;
+  font-size: 2em;
+  float: right;
+}
+
+#social-strip img {
+  width: 35px;
+  /*float: left;*/
+  margin: 20px 15px;
+}
+
+/* Cascade */
+.social-strip {
+  padding: 0 20px;
+  height: 80px;
+  width: 100%;
+}
+
+.social-strip p {
+  margin: 9px 0 10px;
+  font-size: 2.7em;
+  font-family: Bebasneue, Oswald, sans-serif;
+  float: right;
+  text-align: center;
+}
+
+.social-strip span {
+  font-family: Bebasneue, Oswald, sans-serif;
+  font-size: 2em;
+  float: right;
+}
+
+.social-strip img {
+  width: 35px;
+  /*float: left;*/
+  margin: 20px 15px;
+}
+/* Cascade */
+
+
+
+
+
+
+
+
+
+
+
 
 
 .social-strip-title p {
@@ -2433,35 +2498,7 @@ video {
 /* Large Image Overlay */
 
 
-/* Social Linkz */
-#social-strip {
-  padding: 0 20px;
-  height: 80px;
-  width: 100%;
-}
 
-#social-strip p {
-  margin: 9px 0 10px;
-  font-size: 2.7em;
-  font-family: Bebasneue, Oswald, sans-serif;
-  float: right;
-  text-align: center;
-}
-
-#social-strip span {
-  font-family: Bebasneue, Oswald, sans-serif;
-  font-size: 2em;
-  float: right;
-}
-
-#social-strip img {
-  width: 35px;
-  /*float: left;*/
-  margin: 20px 15px;
-}
-
-
-/* End Social Linkz */
 
 /* Program Pages */
 
