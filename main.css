@@ -2214,7 +2214,7 @@ video {
 
 
 
-/* MMM Social Strip */
+/* MMM Social Strip Cascade */
 #social-strip {
   background-color: #04542e;
   color: #fff
@@ -2227,6 +2227,23 @@ video {
 #social-strip-icons img {
   margin: 10px;
 }
+/* Cascade */
+.social-strip {
+  background-color: #04542e;
+  color: #fff
+}
+
+.social-strip-icons {
+  text-align: center;
+}
+
+.social-strip-icons img {
+  margin: 10px;
+}
+/* Cascade */
+
+
+
 
 .social-strip-title p {
   text-align: right;
