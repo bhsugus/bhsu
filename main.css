@@ -7886,24 +7886,17 @@ width: 100%;
     max-height: 300px !important;
   }
 
-  /* cascade */
+  /* cascade? */
   #panel {
-    overflow: visible;
-  }
-  .panel {
     overflow: visible;
   }
 
-  /* cascade */
   #panel {
     overflow: hidden;
     padding: 0;
   }
-  .panel {
-    overflow: hidden;
-    padding: 0;
-  }
-  /* cascade */
+
+ 
 
   .front-video-overlay2 h4 {
     margin: 3px 0 11px 0;
