@@ -300,11 +300,6 @@ section {
   outline: none;
 }
 
-#panel {
-  overflow: hidden;
-  padding: 0;
-}
-
 .learn-more-link>a {
   text-align: center;
   font-family: Lato;
@@ -7891,9 +7886,24 @@ width: 100%;
     max-height: 300px !important;
   }
 
+  /* cascade */
   #panel {
     overflow: visible;
   }
+  .panel {
+    overflow: visible;
+  }
+
+  /* cascade */
+  #panel {
+    overflow: hidden;
+    padding: 0;
+  }
+  .panel {
+    overflow: hidden;
+    padding: 0;
+  }
+  /* cascade */
 
   .front-video-overlay2 h4 {
     margin: 3px 0 11px 0;
