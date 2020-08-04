@@ -7887,9 +7887,9 @@ width: 100%;
   }
 
   /* cascade? */
-  #panel {
+  /*#panel {
     overflow: visible;
-  }
+  }*/
 
   #panel {
     overflow: hidden;
