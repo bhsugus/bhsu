@@ -67,19 +67,18 @@ hr {
   padding: 0;
 }
 
-/* Cascade Migrate */
-
+/* Cascade ID to Class */
 #primary_header {
   background-image: url('../img/rc-primary-header.jpg');
   background-size: cover;
   background-position: center;
 }
-
 .primary_header {
   background-image: url('../img/rc-primary-header.jpg');
   background-size: cover;
   background-position: center;
 }
+/* Cascade ID to Class */
 
 .header-banner {
   overflow: hidden;
@@ -3156,10 +3155,14 @@ a.rc-testi-box-button:link {
 
 
 
-
+/* Cascade */
 #programs {
   background-color: #FFC82C;
 }
+.programs {
+  background-color: #FFC82C;
+}
+/* Cascade */
 
 .redactor-box ul li::before {
   content: none;
@@ -4118,7 +4121,7 @@ figure.effect-goliath p {
 /* end boxee goliath */
 
 
-/* mtn boxee */
+/* mtn boxee Cascade */
 
 #mtn-boxee {
   position: relative;
@@ -4147,6 +4150,31 @@ figure.effect-goliath p {
   overflow: hidden;
   height: 270px;
 }
+
+.mtn-boxee2 {
+  position: relative;
+}
+
+.mtn-boxee2 a {
+  color: #fff;
+}
+
+.mtn-boxee2::before {
+  background-image: url(https://www.bhsu.edu/portals/0/images/home/mtn-boxee/Mountains-Outline.png);
+  background-position-x: center;
+  content: "";
+  background-size: cover;
+  height: 7rem;
+  left: 0;
+  position: absolute;
+  top: 3.4rem;
+  width: 101%;
+  z-index: 50;
+}
+
+
+/* Cascade */
+
 
 .image {
   display: block;
@@ -6816,12 +6844,18 @@ width: 100%;
   background-color: #000;
   color: #fff;
 }
-
+/* Cascade */
 #sticky-logo {
   height: 60px;
   float: left;
   padding-top: 6px;
 }
+.sticky-logo {
+  height: 60px;
+  float: left;
+  padding-top: 6px;
+}
+/* Cascade */
 
 /* yellow sticky nav */
 
@@ -7717,11 +7751,14 @@ width: 100%;
     display: none;
     width: 0
   }
-
+/* Cascade */
   #sticky-logo {
     height: 35px;
   }
-
+  .sticky-logo {
+    height: 35px;
+  }
+/* Cascade */
   .bhsu-logo {
     float: left;
   }
