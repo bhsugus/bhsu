@@ -714,25 +714,25 @@ section {
 
 #emergency {
   width: 100%;
-  background-color: #d2d6ce;
+  background-color: #006233;
 }
 
 #emergency p {
   font-family: Lato, san-serif;
   font-size: 2em;
   text-transform: uppercase;
-  color: #000;
+  color: #fff;
   text-align: center;
   padding: 5px 0;
   margin: 0;
 }
 
 #emergency a {
-  color: #016234;
+  color: #fff;
 }
 
 #emergency a:hover {
-  color: #016234;
+  color: #e8ba02;
   text-decoration: underline;
 }
 
