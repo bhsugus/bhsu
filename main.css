@@ -4341,9 +4341,11 @@ figure.effect-goliath p {
 #coursework tr:nth-child(even) {background-color: #f2f2f2;}
 #coursework td {padding: 10px}
 .eventable tr:nth-child(odd) {background-color: #f2f2f2;}
-.dualcredit-table tr:nth-child(odd) {background-color: #f2f2f2;}
 
-.dualcredit-table {width:100%}
+.dualcredit-table tr:nth-child(odd) {background-color: #f2f2f2;}
+.courseGrid tr:nth-child(odd) {background-color: #f2f2f2;}
+
+.dualcredit-table, {width:100%}
 
 .dualcredit-table thead tr td{
     background-color: #006233;
@@ -4353,6 +4355,8 @@ figure.effect-goliath p {
     font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif;
     font-weight:bold
 }
+
+
 
 
 
