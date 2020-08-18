@@ -282,6 +282,9 @@ section {
   outline: none;
 }
 
+embed, img, object {
+  max-width: 100%;
+}
 .intro {
   padding-bottom: 60px;
 }
@@ -295,8 +298,19 @@ section {
   font-size: 28px;
   font-family: Oswald;
 }
+.Right_Wide_Pane h1 {
+  text-transform: uppercase;
+}
+.Right_Wide_Pane h2 {
+  text-transform: uppercase;
+  font-size: 28px;
+  font-family: Oswald;
+}
 
 #mt-boxee {
+  outline: none;
+}
+.mt-boxee {
   outline: none;
 }
 
@@ -4513,6 +4527,8 @@ figure.effect-lily figcaption>div {
 
 
 /* old skin adjustments */
+
+
 
 .communitybox2 ul li {
   background-color: transparent !important;
