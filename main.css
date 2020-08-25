@@ -3902,10 +3902,11 @@ margin: 24px 0;
   opacity: 0.7;
 }
 
-/* Fact Card  */.fact-card {
+/* Fact Card  */
+.fact-card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   max-width: 300px;
-  margin: 0 5px;
+  margin: 0 15px;
   text-align: center;
   font-family: arial;
   float: left;
