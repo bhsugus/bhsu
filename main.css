@@ -3902,15 +3902,13 @@ margin: 24px 0;
   opacity: 0.7;
 }
 
-/* Fact Card  */
-.fact-card {
+/* Fact Card  */.fact-card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   max-width: 300px;
   margin: 0 5px;
   text-align: center;
   font-family: arial;
   float: left;
-
   position: relative;
 }
 .fact-card .top {
@@ -3920,6 +3918,9 @@ margin: 24px 0;
 }
 .fact-card .top h2 {
 	color: #fff
+}
+.fact-card p {
+	margin: 10px 0 0 0;
 }
 .fact-card title {
   color: grey;
@@ -3954,8 +3955,6 @@ margin: 24px 0;
 	font-size: 30px;
     font-weight: bold;
 }
-
-
 /* RC Campaign Cards 2 */
 
 .cardy {
