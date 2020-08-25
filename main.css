@@ -3920,7 +3920,7 @@ margin: 24px 0;
 	color: #fff
 }
 .fact-card p {
-	margin: 10px 0 0 0;
+	margin: 10px 0 0 0!important;
 }
 .fact-card title {
   color: grey;
