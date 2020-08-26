@@ -3875,6 +3875,7 @@ a.rc-testi-box-button:link {
 .profile-card title {
   color: grey;
   font-size: 18px;
+  padding: 0 5px;
 }
 
 .profile-card button {
