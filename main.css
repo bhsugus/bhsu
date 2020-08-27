@@ -5907,7 +5907,7 @@ box-shadow: 1px 1px 1px;
   max-width: 350px;
   height: auto;
   /*background-color: rgba(0,0,0,.03);*/
-  /*padding-bottom: 20px; */
+  padding-bottom: 20px;
   z-index: 100 !important;
   margin: 0 auto;
 }
