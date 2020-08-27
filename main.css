@@ -5904,11 +5904,12 @@ box-shadow: 1px 1px 1px;
 
 
 .viz0019 {
-  /* width: 100%; */
+  max-width: 350px;
   height: auto;
   /*background-color: rgba(0,0,0,.03);*/
   /*padding-bottom: 20px; */
   z-index: 100 !important;
+  margin: 0 auto;
 }
 
 .viz0019 ul {
