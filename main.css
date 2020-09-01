@@ -3870,6 +3870,10 @@ a.rc-testi-box-button:link {
   float: left;
   min-height: 635px;
   position: relative;
+  border-radius: 15px;
+}
+.profile-card img {
+border-radius: 15px 15px 0 0;
 }
 
 .profile-card title {
