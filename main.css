@@ -3900,8 +3900,10 @@ a.rc-testi-box-button:link {
 margin: 24px 0;
 }
 .profile-card button:hover, a:hover {
-  opacity: 0.7;
+  background-color: #FFC726;
+  color: #000;
 }
+
 .profile-card .buttons {
   bottom: 0;
   position: absolute;
