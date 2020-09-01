@@ -3895,7 +3895,7 @@ border-radius: 15px 15px 0 0;
   width: 100%;
   font-size: 18px;   
 }
-.profile-card .buttonp {
+.profile-card .buttone {
   border: none;
   outline: 0;
   display: inline-block;
@@ -3908,7 +3908,7 @@ border-radius: 15px 15px 0 0;
   width: 100%;
   font-size: 18px;   
 }
-.profile-card .buttons .buttonp a {
+.profile-card .buttons .buttone a {
   color: white;
 }
 
@@ -3926,7 +3926,7 @@ margin: 24px 0;
   font-weight: bold;
 }
 
-.profile-card .buttonp:hover, a:hover {
+.profile-card .buttone:hover, a:hover {
   background-color: #FFC726;
   color: #000;
   font-weight: bold;
