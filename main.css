@@ -3936,6 +3936,8 @@ margin: 24px 0;
   bottom: 0;
   position: absolute;
   width: 100%;
+  line-height: 1.56em;
+  margin: 0 0 10px;
 }
 
 
