@@ -3864,7 +3864,7 @@ a.rc-testi-box-button:link {
 .profile-card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   max-width: 300px;
-  margin: 5px;
+  margin: 5px 5px 40px 5px;
   text-align: center;
   font-family: arial;
   float: left;
