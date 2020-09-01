@@ -3902,12 +3902,11 @@ margin: 24px 0;
 .profile-card button:hover, a:hover {
   opacity: 0.7;
 }
-
-/*.profile-card p {
+.profile-card .buttons {
   bottom: 0;
   position: absolute;
   width: 100%;
-}*/
+}
 
 /* Fact Card  */
 .fact-card {
