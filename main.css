@@ -3922,6 +3922,12 @@ margin: 24px 0;
   font-weight: bold;
 }
 
+.profile-card .button:hover, a:hover {
+  background-color: #FFC726;
+  color: #000;
+  font-weight: bold;
+}
+
 .profile-card .buttons {
   bottom: 0;
   position: absolute;
