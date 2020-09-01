@@ -3915,6 +3915,10 @@ margin: 24px 0;
   width: 100%;
 }
 
+
+float: none;
+margin: 10px auto;
+
 /* Fact Card  */
 .fact-card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -7814,6 +7818,10 @@ width: 100%;
     width: 100%
   }
 
+.profile-card {
+  float: none;
+  margin: 10px auto;
+}  
 
   /* mmm common */
 
