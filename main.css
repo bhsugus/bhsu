@@ -3902,6 +3902,7 @@ margin: 24px 0;
 .profile-card button:hover, a:hover {
   background-color: #FFC726;
   color: #000;
+  font-weight: bold;
 }
 
 .profile-card .buttons {
