@@ -3908,7 +3908,7 @@ border-radius: 15px 15px 0 0;
   width: 100%;
   font-size: 18px;   
 }
-.profile-card .button a {
+.profile-card .buttons .button a {
   color: white;
 }
 
@@ -3938,9 +3938,6 @@ margin: 24px 0;
   width: 100%;
 }
 
-
-float: none;
-margin: 10px auto;
 
 /* Fact Card  */
 .fact-card {
