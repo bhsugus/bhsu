@@ -3920,13 +3920,13 @@ border-radius: 15px 15px 0 0;
 .profile-card .bio {
 margin: 24px 0;
 }
-.profile-card button:hover, a:hover {
+.profile-card button:hover, {
   background-color: #FFC726;
   color: #000;
   font-weight: bold;
 }
 
-.profile-card .buttone:hover, a:hover {
+.profile-card .buttone:hover, .bottone a:hover {
   background-color: #FFC726;
   color: #000;
   font-weight: bold;
