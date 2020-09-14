@@ -3919,6 +3919,7 @@ border-radius: 15px 15px 0 0;
 }
 .profile-card .bio {
 margin: 24px 0;
+font-size: 16px;
 }
 .profile-card button:hover, {
   background-color: #FFC726;
