@@ -3900,7 +3900,7 @@ font-size: 16px;
 .fact-card .bio {
 margin: 24px 0;
 }
-.fact-card button:hover, a:hover {
+.fact-card button:hover {
   opacity: 0.7;
 }
 .fact-card .cases {
