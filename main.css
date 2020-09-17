@@ -4849,6 +4849,11 @@ a.breadcrumbLink {
 
 /* bootstrap hacks */
 
+.responsiveTabs {
+  max-width: 100%;
+  margin: auto;
+}
+
 .panel-heading a:after {
   font-family: 'Glyphicons Halflings';
   content: "\e114";
