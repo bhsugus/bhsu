@@ -4848,7 +4848,7 @@ a.breadcrumbLink {
 
 /* FAQ occordion */
 details {
-  width: 75%;
+  width: 100%;
   min-height: 5px;
   max-width: 700px;
   padding: 15px 70px 15px 15px;
@@ -4856,7 +4856,7 @@ details {
   position: relative;
   font-size: 22px;
   border: 1px solid rgba(0,0,0,.1);
-  border-radius: 15px;
+  border-radius: 5px;
   box-sizing: border-box;
   transition: all .3s;
 }
