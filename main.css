@@ -5194,6 +5194,7 @@ a.tabLink {
   color: #000;
   border: 0;
   font-size: 1.1em;
+  text-decoration: none;
 }
 
 .bstrap30 .nav-tabs>li.active>a {
