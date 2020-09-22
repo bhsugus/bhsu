@@ -912,7 +912,7 @@ a.button1:hover {
   text-align: center;
   display: inline-block;
   font-size: 16px;
-  font-weight: bold;
+  font-weight: bold!important;
   margin: 4px 2px;
   cursor: pointer;
   -webkit-transition-duration: 0.4s;
@@ -922,6 +922,7 @@ a.button1:hover {
   border-radius: 3px;
   text-decoration: none !important;  
 }
+
 
 
 .button10:hover {
