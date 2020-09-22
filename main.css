@@ -920,7 +920,7 @@ a.button1:hover {
   transition-duration: 0.4s;
   width: 100%;
   border-radius: 3px;
-  text-decoration: none !important;
+  text-decoration: none !important;  
 }
 
 
@@ -5357,7 +5357,10 @@ a.tabLink {
   margin-left: 20px;
   padding: none !important;
 }
-
+/* switch menu side */
+.right-narrow-pane .viz0019 ul li {
+  text-align: left;
+}
 
 /* fixed sidebar applied dynamtically with JS */
 .fixed {
