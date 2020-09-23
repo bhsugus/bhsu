@@ -248,7 +248,7 @@ a {
 
 a:hover {
   color: #018b4a;
-  border-bottom: 1px solid #fb0;
+  border-color: #fb0;
   text-decoration: none;
 }
 
