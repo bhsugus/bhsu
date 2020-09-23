@@ -248,6 +248,8 @@ a {
 
 a:hover {
   color: #018b4a;
+  border-bottom: 1px solid #fb0;
+  text-decoration: none;
 }
 
 a:visited {
@@ -261,7 +263,8 @@ a.active {
 
 a:link {
   font-weight: normal;
-  text-decoration: underline;
+  /*text-decoration: underline;*/
+  border-bottom: 1px solid #403c3c;
 }
 
 li,
