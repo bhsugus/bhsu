@@ -262,8 +262,7 @@ a.active {
 
 a:link {
   font-weight: normal;
-  text-decoration: underline;
-  
+  text-decoration: underline;  
 }
 
 li,
@@ -1795,7 +1794,7 @@ video {
 
 .yellow-background {
   background-color: #FFC82C;
-  height: 480px;
+  /*height: 480px;*/
   z-index: -1;
 }
 
