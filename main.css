@@ -419,7 +419,9 @@ embed, img, object {
 
 /* end slider */
 
-
+.why {
+  margin-top: 40px;
+}
 
 
 .front-video-overlay2 h4 {
@@ -431,7 +433,6 @@ embed, img, object {
   line-height: .8;
   margin-top: 5px;
 }
-
 
 
 
@@ -3297,9 +3298,7 @@ a.rc-testi-box-button:link {
 
 /*special */
 
-.why {
-  margin-top: 40px;
-}
+
 
 .admissions-why-background {
   background-image: url('https://www.bhsu.edu/Portals/0/Admissions/images/background-admissions.jpg');
