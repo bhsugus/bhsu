@@ -3676,7 +3676,9 @@ a.rc-testi-box-button:link {
   border: 3px solid green;
 }
 
-
+.ng-binding p {
+  padding: 10px
+}
 
 /* plain box yellow */
 
