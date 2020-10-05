@@ -3668,6 +3668,13 @@ a.rc-testi-box-button:link {
   text-align: center;
 }
 
+.centering {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  border: 3px solid green;
+}
 
 
 
