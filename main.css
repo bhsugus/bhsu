@@ -3297,6 +3297,10 @@ a.rc-testi-box-button:link {
 
 /*special */
 
+.why {
+  margin-top: 40px;
+}
+
 .admissions-why-background {
   background-image: url('https://www.bhsu.edu/Portals/0/Admissions/images/background-admissions.jpg');
   background-repeat: no-repeat;
