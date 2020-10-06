@@ -3491,6 +3491,10 @@ a.rc-testi-box-button:link {
   letter-spacing: normal;
   line-height: 1.1;
 }
+.eds_news_NewsMagazine.eds_subCollection_news .in_article_image.left {
+  float: left;
+  margin-right: 10px;
+}
 
 .eds_news_Vision.eds_subCollection_news .edsAccordion .edsAccordion_section .edsAccordion_title {
   color: #000;
@@ -3499,7 +3503,14 @@ a.rc-testi-box-button:link {
   font-weight: 500;
   background: rgba(0, 0, 0, .03) url(https://www.bhsu.edu/images/accordionExpandableHead/expandIcon/predefined/expand2.png) no-repeat 97% center;
 }
-
+.eds_news_NewsMagazine.eds_subCollection_news .in_article_image {
+  background-color: #e5e5e5;
+  border: solid 1px #d1d2d3;
+  border-radius: 4px;
+  padding: 5px;
+  margin-bottom: 5px;
+  max-width: 100%;
+}
 .eds_news_Ozone.eds_subCollection_news .article_pager a.active,
 .eds_news_Ozone.eds_subCollection_news .article_pagination>span {
   background-color: #016234;
