@@ -3434,7 +3434,6 @@ a.rc-testi-box-button:link {
   outline: none;
   -moz-outline-style: none;
   outline-style: none;
-  background: transparent url(assets/images/common/blank.png);
   font-family: oswald;
   font-size: 16px;
 }
@@ -3498,7 +3497,7 @@ a.rc-testi-box-button:link {
   font-size: 1.4em;
   font-family: Poppins, Oswald, sans-serif;
   font-weight: 500;
-  background: rgba(0, 0, 0, .03) url(images/accordionExpandableHead/expandIcon/predefined/expand2.png) no-repeat 97% center;
+  background: rgba(0, 0, 0, .03) url(https://www.bhsu.edu/images/accordionExpandableHead/expandIcon/predefined/expand2.png) no-repeat 97% center;
 }
 
 .eds_news_Ozone.eds_subCollection_news .article_pager a.active,
