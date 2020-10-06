@@ -3446,7 +3446,9 @@ a.rc-testi-box-button:link {
 .eds_news_NewsMagazine span, .eds_news_NewsMagazine a, .eds_news_NewsMagazine li, .eds_news_NewsMagazine td, .eds_news_NewsMagazine table {
   line-height: inherit;
 }
-
+.eds_news_NewsMagazine * {
+  box-sizing: border-box;
+}
 .eds_news_NewsMagazine {
   color: #504e4e;
 }
@@ -3457,7 +3459,22 @@ a.rc-testi-box-button:link {
   font-size: 16px;
   color: #504e4e;
 }
-
+.eds_news_NewsMagazine.eds_subCollection_news .edn_article.edn_simpleArticle h2.edn_articleTitle {
+  font-size: 20px;
+  color: #504e4e;
+  transition: color 0.3s linear;
+  font-family: oswald;
+}
+.eds_news_NewsMagazine.eds_subCollection_news .edn_article .edn_articleTitle {
+  margin-bottom: 5px;
+}
+.eds_news_NewsMagazine.eds_subCollection_news .edn_article.edn_simpleArticle .edn_articleSummary {
+  padding: 0;
+  font-size: 16px;
+}
+.eds_news_NewsMagazine.eds_subCollection_news .edn_articleSummary {
+  line-height: 1.3;
+}
 
 
 .eds_news_Vision.eds_subCollection_news .edsAccordion .edsAccordion_section .edsAccordion_title {
