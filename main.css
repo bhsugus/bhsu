@@ -3660,7 +3660,15 @@ section {
   box-shadow: none; 
   transition: all 200ms linear;
 }
-
+.eds_news_Ozone.eds_subCollection_news .edn_article.edn_eventsSimple > section > div > time:before {
+  content: "";
+  display: inline-block;
+  margin-right: 5px;
+  font-family: "FontAwesome";
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+}
 
 .eds_news_Ozone.eds_subCollection_news .article_pager a.active,
 .eds_news_Ozone.eds_subCollection_news .article_pagination>span {
