@@ -3484,7 +3484,14 @@ a.rc-testi-box-button:link {
 .eds_news_NewsMagazine.eds_subCollection_news .edn_article .edn_articleTitle {
   margin-bottom: 5px;
 }
-
+.eds_news_NewsMagazine.eds_subCollection_news h1, .eds_news_NewsMagazine.eds_subCollection_news h2, .eds_news_NewsMagazine.eds_subCollection_news h3, .eds_news_NewsMagazine.eds_subCollection_news h4, .eds_news_NewsMagazine.eds_subCollection_news h5, .eds_news_NewsMagazine.eds_subCollection_news h6 {
+  margin: 0 0 15px;
+  padding: 0;
+  color: #c81704;
+  font-weight: normal;
+  letter-spacing: normal;
+  line-height: 1.1;
+}
 
 .eds_news_Vision.eds_subCollection_news .edsAccordion .edsAccordion_section .edsAccordion_title {
   color: #000;
