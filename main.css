@@ -3511,6 +3511,15 @@ a.rc-testi-box-button:link {
   margin-bottom: 5px;
   max-width: 100%;
 }
+.eds_news_NewsMagazine .edn_clearFix:after {
+  display: table;
+  content: "";
+  clear: both;
+  width: 100%;
+}
+
+
+
 .eds_news_Ozone.eds_subCollection_news .article_pager a.active,
 .eds_news_Ozone.eds_subCollection_news .article_pagination>span {
   background-color: #016234;
