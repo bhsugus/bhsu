@@ -3447,6 +3447,19 @@ a.rc-testi-box-button:link {
   line-height: inherit;
 }
 
+.eds_news_NewsMagazine {
+  color: #504e4e;
+}
+.eds_news_NewsMagazine {
+  margin-bottom: 30px;
+  font-family: "Source Sans Pro", sans-serif;
+  line-height: 1.7;
+  font-size: 16px;
+  color: #504e4e;
+}
+
+
+
 .eds_news_Vision.eds_subCollection_news .edsAccordion .edsAccordion_section .edsAccordion_title {
   color: #000;
   font-size: 1.4em;
