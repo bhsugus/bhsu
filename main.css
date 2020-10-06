@@ -4945,7 +4945,7 @@ details[open] .control-icon-expand {
 
 .vertical-center {
   min-height: 100%;  
-  min-height: 100vh; 
+  min-height: 500px; 
   display: flex;
   align-items: center;
 }
