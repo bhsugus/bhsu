@@ -3471,7 +3471,7 @@ a.rc-testi-box-button:link {
 }
 .topgal ul li:hover::before {
 	opacity: 0;
-	background-color: rgba(0,0,0,0.90);
+	background-color: rgba(0,0,0,0.50);
 }
 .topgal ul li img {
 	width: 100%;
