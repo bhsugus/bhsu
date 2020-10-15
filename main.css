@@ -5370,6 +5370,11 @@ details[open] .control-icon-expand {
   margin: 0 auto !important;
 }
 
+#dnn_ctr30815_Main_pnlTabs .tabs-root {
+  display: table;
+  margin: 0 auto !important;
+}
+
 #dnn_ctr18212_Main_pnlTabs .tabs-root {
   display: table;
   margin: 0 auto !important;
