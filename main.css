@@ -5209,6 +5209,9 @@ a.breadcrumbLink {
 .gtfhmoduleTitle {
   color: #000 !important;
 }
+.BHSU-inner-container .DnnModule p, .BHSU-inner-container .DnnModule li {
+  font-family: "Poppins", Verdana, Arial, Helvetica, sans-serif;
+}
 
 
 /* uchat hacks */
