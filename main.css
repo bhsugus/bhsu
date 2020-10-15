@@ -362,6 +362,16 @@ embed, img, object {
   color: #fff;
 }
 
+/* center block */
+
+
+.center-blocky {
+  position: absolute;
+  z-index: 999;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 
 /*announcement boxer */
 
