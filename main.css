@@ -6914,7 +6914,7 @@ box-shadow: 1px 1px 1px;
 /* observer fade-in */
 .fade-in {
   opacity: 0;
-  transition: opacity 250ms ease-in;
+  transition: opacity 500ms ease-in;
 }
 
 .fade-in.appear {
