@@ -5365,6 +5365,13 @@ details[open] .control-icon-expand {
   text-align: left;
 }
 
+
+
+#dnn_ctr30990_Main_pnlTabs .tabs-root {
+  display: table;
+  margin: 0 auto !important;
+}
+
 #dnn_ctr18647_Main_pnlTabs .tabs-root {
   display: table;
   margin: 0 auto !important;
