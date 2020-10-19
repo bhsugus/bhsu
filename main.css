@@ -2683,7 +2683,7 @@ video {
 
 .program-list a::before {
   font-family: "Glyphicons Halflings";
-  content: '\e250';
+  content: "\e250";
 }
 
 /* program contact end */
