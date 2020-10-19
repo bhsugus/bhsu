@@ -2682,8 +2682,8 @@ video {
 }
 
 .program-list a::before {
-  font-family: "Font Awesome 5 Free";
-  content: '\f0da';
+  font-family: "Glyphicons Halflings";
+  content: '\e250';
 }
 
 /* program contact end */
@@ -8030,7 +8030,7 @@ width: 100%;
   outline: none;
 }
 
-.hamburger.is-open:before {
+.hamburger.is-open::before {
   -webkit-transform: translate3d(0, 0, 0);
   -webkit-transition: all 0.35s ease-in-out;
   color: #ffffff;
