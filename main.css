@@ -2681,7 +2681,7 @@ video {
 
 }
 
-.program-list a::before {
+.program-list p::before {
   font-family: "Glyphicons Halflings";
   content: "\e250";
 }
