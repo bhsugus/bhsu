@@ -2684,6 +2684,7 @@ video {
 .program-list p::before {
   font-family: "Glyphicons Halflings";
   content: "\e250";
+  font-size: .8em;
 }
 
 /* program contact end */
@@ -5371,6 +5372,10 @@ details[open] .control-icon-expand {
 }
 
 
+#dnn_ctr31044_Main_pnlTabs .tabs-root {
+  display: table;
+  margin: 0 auto !important;
+}
 
 #dnn_ctr30990_Main_pnlTabs .tabs-root {
   display: table;
