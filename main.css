@@ -4847,7 +4847,7 @@ figure.effect-goliath p {
 
 .image {
   display: block;
-  width: 100%;
+  /*width: 100%;*/
   height: auto;
 }
 
