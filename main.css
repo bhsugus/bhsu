@@ -616,7 +616,7 @@ embed, img, object {
 
 
 #panel {
-  overflow: hidden!important;
+  /*overflow: hidden!important;*/
   padding: 0;
 }
 
