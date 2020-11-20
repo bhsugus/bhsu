@@ -5622,7 +5622,9 @@ a.tabLink {
   /*border: 0!important;*/
   /*font-size: 1.2em; */
 }
-
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+  border: none;
+}
 .nav-tabs>li>a {
   font-family: BebasNeue;
   text-transform: uppercase;
