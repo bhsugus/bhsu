@@ -296,7 +296,7 @@ section {
 }
 
 embed, img, object {
-  /*max-width: 100%;*/
+  max-width: 100%;
 }
 .intro {
   padding-bottom: 60px;
@@ -5623,7 +5623,7 @@ a.tabLink {
   /*font-size: 1.2em; */
 }
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
-  border: none;
+  border:
 }
 .nav-tabs>li>a {
   font-family: BebasNeue;
