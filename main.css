@@ -1645,6 +1645,15 @@ video {
   font-size: 16px;
   letter-spacing: .03em;
 }
+.contactSide p {
+  font-family: Poppins;
+  color: #797878;
+  text-align: left;
+  font-size: 12px;
+  padding: 10px;
+}
+
+
 
 
 .copyright-container {
@@ -8183,6 +8192,14 @@ width: 100%;
     margin: 0 auto;
     text-align: center;
   }
+  .contactInfo p {
+    font-size: 14px;
+  }
+  .contactSide {
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+  }
 
   .footer-list {
     padding-top: 20px;
@@ -8223,9 +8240,7 @@ width: 100%;
     position: relative;
   }
 
-  .contactInfo p {
-    font-size: 14px;
-  }
+
 
   .bhsu-logo {
     float: left;
