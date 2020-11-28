@@ -6413,7 +6413,7 @@ box-shadow: 1px 1px 1px;
 }
 
 .side-menu-toplink a::after {
-  content: none !important;
+  /*content: none !important;*/
 }
 
 /*.side-menu-toplink a::before {
