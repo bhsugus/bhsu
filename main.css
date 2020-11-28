@@ -5822,6 +5822,13 @@ a.tabLink {
   margin-left: 20px;
   padding: none !important;
 }
+
+/* Local Links */
+.localLinks {
+    /* display: block; */
+    width: 100%;
+}
+
 /* switch menu side */
 .right-narrow-pane .viz0019 ul li {
   text-align: left;
