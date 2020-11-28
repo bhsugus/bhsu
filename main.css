@@ -6379,6 +6379,13 @@ box-shadow: 1px 1px 1px;
   font-size: 10px;
   vertical-align: top;
 }
+.side-menu-toplink ul li a::after {
+  font-size: .5em;
+  font-weight: 900;
+  vertical-align: middle;
+  font-family: 'Glyphicons Halflings';
+  content: "\e080";
+}
 
 
 .redactor-box ul li a::after {
