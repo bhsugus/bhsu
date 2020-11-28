@@ -5831,7 +5831,8 @@ a.tabLink {
   width: 100%;
 }
 .localLinks ul li {
-border-left: 0.2em solid #FFC726;
+  border-left: 0.2em solid #FFC726;
+  background-color: rgba(0, 0, 0, .1)!important;
 }
 /* switch menu side */
 .right-narrow-pane .viz0019 ul li {
