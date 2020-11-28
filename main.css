@@ -1647,11 +1647,12 @@ video {
   letter-spacing: .03em;
 }
 .contactSide {
-  padding: 0 15px;
+  padding: 0;
   float: left;
 }
 .contactSide h1 {
   font-size: 2em;
+  margin-left: -3px;
 }
 .contactSide p {
   font-family: Poppins;
