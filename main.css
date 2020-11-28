@@ -1647,6 +1647,7 @@ video {
 }
 .contactSide {
   padding: 15px;
+  float: left;
 }
 .contactSide h1 {
   /*font-size: 2em;*/
@@ -1658,6 +1659,7 @@ video {
   font-size: 12px;
   border-left: dotted #006233;
   padding-left: 5px;
+  
 }
 
 
