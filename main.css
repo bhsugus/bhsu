@@ -1076,6 +1076,7 @@ a.gbutton1:hover {
   padding: 0 !important;
   /*text-align: center;*/
   margin-bottom: 3px;
+  border-left: 0.3em solid #FFC726;
 }
 
 .bhmenu:hover {
@@ -6380,6 +6381,7 @@ box-shadow: 1px 1px 1px;
 .side-menu-toplink {
   font-size: 1.4em;
   background-color: #016234 !important;
+  border-left: 0.3em solid #000;
 }
 
 .side-menu-toplink-rc {
