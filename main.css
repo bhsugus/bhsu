@@ -1645,12 +1645,17 @@ video {
   font-size: 16px;
   letter-spacing: .03em;
 }
+.contactSide {
+  padding: 20px;
+}
+.contactSide h1 {
+  font-size: 16px;
+}
 .contactSide p {
   font-family: Poppins;
   color: #272727;
   text-align: left;
   font-size: 13px;
-  padding: 30px 10px;
 }
 
 
