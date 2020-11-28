@@ -5829,7 +5829,9 @@ a.tabLink {
   float: left;
   width: 100%;
 }
-
+.localLinks ul li {
+border-left: 0.3em solid #FFC726;
+}
 /* switch menu side */
 .right-narrow-pane .viz0019 ul li {
   text-align: left;
