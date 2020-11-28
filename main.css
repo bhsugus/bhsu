@@ -5350,7 +5350,13 @@ details[open] .control-icon-expand {
   display: none;
 }
 
-
+.t-container {
+  width:80%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
 
 
 /* bootstrap hacks */
