@@ -8243,7 +8243,9 @@ width: 100%;
     margin: 0 auto;
     text-align: center;
   }
-
+  .contactSide h1 {
+    visibility: hidden;
+  }
   .footer-list {
     padding-top: 20px;
     text-align: center;
