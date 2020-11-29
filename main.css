@@ -8677,6 +8677,7 @@ width: 100%;
     font-weight: 700;
     color: #fff;
     font-family: "Font Awesome 5 Free";
+    visibility: hidden;
   }
 
   #social-strip img {
