@@ -6343,7 +6343,7 @@ box-shadow: 1px 1px 1px;
 
 .side-menu ul li {
   list-style-type: none;
-  padding: 8px;
+  padding: 4px;
   background-color: rgba(0, 0, 0, .08);
   margin-bottom: 3px;
 }
@@ -6351,7 +6351,7 @@ box-shadow: 1px 1px 1px;
 .side-menu ul li a {
   color: #000;
   /*margin: 10px;*/
-  font-size: 1.2em;
+  font-size: 1em;
   font-family: BebasNeue;
   text-decoration: none;
   letter-spacing: 1.5px;
