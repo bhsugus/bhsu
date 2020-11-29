@@ -1660,7 +1660,8 @@ video {
   text-align: left;
   font-size: 1.3rem;
   border-left: dotted #006233;
-  padding-left: 5px;  
+  padding-left: 5px; 
+  margin-bottom: 40px; 
 }
 
 
