@@ -5646,7 +5646,7 @@ a.tabLink {
 .nav-tabs>li.active>a:focus,
 .nav-tabs>li.active>a:hover {
   background-color: #016234 !important;
-  font-family: BebasNeue, Oswald, sans-serif;
+  font-family: Poppins, Oswald, sans-serif;
   text-transform: uppercase;
   color: #f5f5f5 !important;
   /*border: 0!important;*/
