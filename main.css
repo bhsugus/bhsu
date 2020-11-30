@@ -1650,6 +1650,7 @@ video {
 .contactSide {
   padding: 0;
   float: left;
+  width: 100%;
 }
 .contactSide a {
   cursor: pointer;
