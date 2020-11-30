@@ -1651,6 +1651,9 @@ video {
   padding: 0;
   float: left;
 }
+.contactSide a {
+  cursor: pointer;
+}
 .contactSide h1 {
   font-size: 2em;
   margin-left: -3px;
