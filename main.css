@@ -5446,6 +5446,10 @@ details[open] .control-icon-expand {
 .modal-footer {
   background-color: white;
 }
+.modal-backdrop {
+  z-index: 100; 
+}
+
 
 .tp-bs-tabs.tabs-left,
 .tp-bs-tabs.tabs-right {
