@@ -5447,7 +5447,7 @@ details[open] .control-icon-expand {
   background-color: white;
 }
 .modal-backdrop {
-  z-index: 100; 
+  z-index:99; 
 }
 
 
