@@ -1526,6 +1526,7 @@ video {
 
 #dnn_Left_Wide_Pane a {
   font-family: Poppins;
+  cursor: pointer;
   /*font-size: 16px;*/
 }
 
@@ -5656,7 +5657,7 @@ a.tabLink {
   border:
 }
 .nav-tabs>li>a {
-  font-family: Poppins;
+  font-family: BebasNeue;
   text-transform: uppercase;
   color: #000;
   border: 0;
