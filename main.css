@@ -2703,7 +2703,7 @@ video {
   text-decoration: none;
   font-family: Oswald;
   letter-spacing: .5;
-
+  margin: 0 auto;
 }
 
 .program-list p::before {
