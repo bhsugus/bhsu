@@ -5442,7 +5442,9 @@ details[open] .control-icon-expand {
 .nav-tabs {
   border-bottom: 1px solid #e4e4e4;
 }
-
+.modal {
+  top: 20px;
+}
 .modal-body {
   background-color: white;
 }
