@@ -5325,14 +5325,12 @@ summary:focus {
 }
 
 summary:focus::after {
-  content: "";
   height: 100%;
   width: 100%;
   display: block;
   position: absolute;
   top: 0;
   left: 0;
-  box-shadow: 0 0 0 5px #006233;
 }
 
 summary::-webkit-details-marker {
