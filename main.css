@@ -8965,6 +8965,11 @@ width: 100%;
     height: auto;
     padding: 10px;
   }
+  .t-container {
+    width: 100%;
+    padding-right: 5px;
+    padding-left: 5px;
+  }
 /* cascade */
 
   #ready h3 {
