@@ -6538,6 +6538,9 @@ box-shadow: 1px 1px 1px;
   text-decoration: none;
   letter-spacing: 1.5px;
 }
+.viz0019 ul li a:link {
+  display: block;
+}
 
 .viz0019 ul li a::after {
   font-size: .5em;
