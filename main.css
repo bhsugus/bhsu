@@ -5696,6 +5696,9 @@ a.tabLink {
   color: #fff;
   outline: 0!important;
 }
+.tab-content>.active {
+  outline: 0!important;
+}
 
 .bstrap30 .tab-pane {
   border: 0px;
