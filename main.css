@@ -8698,7 +8698,7 @@ width: 100%;
 
   .side-menu-toplink::after {
     font-size: 30px;
-    content: "\f0d7";
+    /*content: "\f0d7";*/
     font-weight: 700;
     color: #fff;
     font-family: "Font Awesome 5 Free";
