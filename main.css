@@ -5368,6 +5368,10 @@ details[open] .control-icon-expand {
 
 /* bootstrap hacks */
 
+#myTabContent:focus {
+  outline-width: 0px;
+}
+
 .vertical-center {
   min-height: 100%;  
   min-height: 500px; 
