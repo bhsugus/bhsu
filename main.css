@@ -5369,7 +5369,7 @@ details[open] .control-icon-expand {
 /* bootstrap hacks */
 
 #myTabContent:focus {
-  outline-width: 0px!important;
+  outline-width: 0!important;
 }
 
 .vertical-center {
