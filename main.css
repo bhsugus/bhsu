@@ -8470,7 +8470,11 @@ width: 100%;
     color: #ffffff;
     background-color: transparent;
   }
-
+  .t-container {
+    width: 100%;
+    padding-right: 5px;
+    padding-left: 5px;
+  }
   .dropdown-menu .divider {
     height: 1px;
     margin: 9px 0;
