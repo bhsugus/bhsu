@@ -8276,7 +8276,7 @@ width: 100%;
   .contactSide h1 {
     visibility: hidden;
   }
-  .contactSide > i {
+  .contactSide i {
     font-size: 3em;
   }
   .footer-list {
