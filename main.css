@@ -1657,6 +1657,7 @@ video {
 }
 .contactSide i {
   font-size: 3em;
+  margin-top: 5px;
 }
 .contactSide i:hover {
   color: #018b4a;
