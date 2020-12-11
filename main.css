@@ -8306,7 +8306,9 @@ width: 100%;
   .rc-header-overlay-black-message {
     font-size: 1.5em;
   }
-
+  .side-menu ul {
+    padding: 1px 0;
+  }
   .side-menu ul li a {
     font-size: 1.5em;
   }
