@@ -1655,6 +1655,9 @@ video {
 .contactSide a {
   cursor: pointer;
 }
+.contactSide i {
+  font-size: 3em;
+}
 .contactSide h1 {
   font-size: 2em;
   margin-left: -3px;
@@ -8276,9 +8279,7 @@ width: 100%;
   .contactSide h1 {
     visibility: hidden;
   }
-  .contactSide i {
-    font-size: 3em;
-  }
+
   .footer-list {
     padding-top: 20px;
     text-align: center;
