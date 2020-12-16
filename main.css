@@ -7888,6 +7888,14 @@ width: 100%;
   height: 500px;
   width: 300px;
 }
+.col-container {
+  display: table; 
+  width: 100%; 
+}
+
+.col {
+  display: table-cell; 
+}
 /* Cascade */
 
 /* yellow sticky nav */
