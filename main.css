@@ -7894,10 +7894,16 @@ width: 100%;
   grid-template-columns: calc(65% - 1rem * 1/2) calc(35% - 1rem * 1/2);
   grid-column-gap: 1rem;
 }
-
 .g-grid-cell {
   padding: 1rem;
 }
+.spacingTops {
+padding-top: 30px;
+}
+
+
+
+
 /* Cascade */
 
 /* yellow sticky nav */
