@@ -2758,7 +2758,7 @@ video {
 }
 
 .white-box-section {
-  max-width: 75%;
+  /*max-width: 75%;*/
   min-width: 306px;
   background-color: #FFF;
   margin: 40px auto;
@@ -2859,7 +2859,7 @@ video {
 
 /* yellow box */
 .yellow-box-section {
-  max-width: 75%;
+  /*max-width: 75%;*/
   min-width: 306px;
   background-color: #FFC726;
   margin-top: 20px;
@@ -2939,7 +2939,7 @@ video {
 }
 
 .student-org-section {
-  max-width: 75%;
+  /*max-width: 75%;*/
   min-width: 306px;
   background-color: #036236;
   margin: 20px auto;
