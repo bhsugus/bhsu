@@ -2734,7 +2734,7 @@ video {
   float: left;
   padding: 5px;
   margin-right: 5px;
-  height: 200px;
+  height: auto;
 }
 
 .field-container h1 {
