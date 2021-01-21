@@ -2727,6 +2727,22 @@ video {
   font-size: .8em;
 }
 
+/* career boxer */
+.career-boxer {
+  box-sizing: border-box;
+  background: #fff;
+  position: relative;
+  margin: 0 0 25px;
+  box-shadow: 0 0 10px #efefef;
+  padding-bottom: 10px;
+  border: 1px solid #efefef;
+  transition: all .2s ease-in-out;
+}
+.hentry {
+  clear: both;
+}
+
+
 /* program contact end */
 
 
