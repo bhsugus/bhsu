@@ -2746,7 +2746,7 @@ video {
   font-size: 1.4em!important;
 }
 .career-boxer h2:after {
-  content: "\54";
+  content: " >";
 }
 .hentry {
   clear: both;
