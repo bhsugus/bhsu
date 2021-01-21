@@ -2737,6 +2737,9 @@ video {
   padding-bottom: 10px;
   border: 1px solid #efefef;
   transition: all .2s ease-in-out;
+  border-top: 3px solid;
+  border-color: #006233
+}
 }
 .hentry {
   clear: both;
