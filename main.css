@@ -2735,12 +2735,11 @@ video {
   margin: 0 0 25px;
   box-shadow: 0 0 10px #efefef;
   padding-bottom: 10px;
-  border: 1px solid #efefef;
   transition: all .2s ease-in-out;
   border-top: 3px solid;
   border-color: #006233;
   margin: 15px;
-  padding: 0 15px;
+  padding: 0 10px 10px 10px;
 }
 .career-boxer h2 {
   font-weight: bold;
