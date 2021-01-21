@@ -2740,7 +2740,9 @@ video {
   margin: 15px 15px 15px 0;
   padding: 0 10px 10px 10px;
 }
-
+.career-boxer-events {
+   border-color: #ffc233;
+}
 .career-boxer h2 {
   font-weight: bold;
   font-size: 1.4em!important;
