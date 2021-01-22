@@ -2728,6 +2728,11 @@ video {
 }
 
 /* career boxer */
+
+.career-boxer-no-top {
+  border-top: none;
+}
+
 .career-boxer {
   box-sizing: border-box;
   background: #fff;
