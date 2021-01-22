@@ -2730,7 +2730,7 @@ video {
 /* career boxer */
 
 .career-boxer-no-top {
-  border-top: none;
+  border-top: none!important;
 }
 
 .career-boxer {
