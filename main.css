@@ -2751,6 +2751,7 @@ video {
 .career-boxer h2 {
   font-weight: bold;
   font-size: 1.3em!important;
+  text-decoration: none;
 }
 .career-boxer h2:after {
   content: " >";
