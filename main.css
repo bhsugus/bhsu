@@ -5431,6 +5431,8 @@ details[open] .control-icon-expand {
 
 /* bootstrap hacks */
 
+.label {text-align: unset;}
+
 #myTabContent:focus {
   outline-width: 0!important;
 }
