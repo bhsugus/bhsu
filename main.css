@@ -6694,7 +6694,7 @@ box-shadow: 1px 1px 1px;
 }
 
 .viz0020 ul li a::before {
-  content: "\e080";
+  /*content: "\e080";*/
   font-family: 'Glyphicons Halflings';
   font-size: .7em;  
 }
