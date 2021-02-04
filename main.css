@@ -5933,6 +5933,9 @@ a.tabLink {
 .localLinks ul li:hover {
   background-color: #ffc726!important;
 }
+.localLinks ul li a::after {
+  visibility:hidden;  
+}
 .localLinks ul li a:hover::after {
   /*content: "\e080";*/
   font-family: 'Glyphicons Halflings';
