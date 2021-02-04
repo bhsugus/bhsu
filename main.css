@@ -6496,6 +6496,7 @@ box-shadow: 1px 1px 1px;
 .side-menu ul li a i {
   font-size: 10px;
   vertical-align: top;
+  font-weight: 900;
 }
 .side-menu-toplink a::after {
   font-size: .5em;
