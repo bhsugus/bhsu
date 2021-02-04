@@ -5928,7 +5928,7 @@ a.tabLink {
 }
 .localLinks ul li {
   border-left: 0.25em solid #676767;
-  background-color: rgba(0, 0, 0, .1)!important;
+
 }
 .localLinks ul li:hover {
   background-color: #ffc726!important;
