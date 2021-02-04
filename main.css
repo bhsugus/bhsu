@@ -5920,6 +5920,9 @@ a.tabLink {
   float: left;
   width: 100%;
 }
+.localLinks ul {
+  text-align: left;
+}
 .localLinks ul li a:link {
   display: block;
 }
@@ -5930,6 +5933,18 @@ a.tabLink {
 .localLinks ul li:hover {
   background-color: #ffc726!important;
 }
+.localLinks ul li a::before {
+  content: "\e080";
+  font-family: 'Glyphicons Halflings';
+  font-size: .7em;  
+}
+
+.localLinks ul li a::after {
+  visibility:hidden;  
+}
+
+
+
 /* switch menu side */
 .right-narrow-pane .viz0019 ul li {
   text-align: left;
