@@ -6677,6 +6677,8 @@ box-shadow: 1px 1px 1px;
   font-weight: 900;
 }
 
+.viz0020 > .side-menu ul li a::after {visibility:hidden}
+
 /* Dumb Fix */
 
 .viz0019 .reg-bullets ul {
