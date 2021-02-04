@@ -5942,7 +5942,10 @@ a.tabLink {
 .localLinks ul li a::after {
   visibility:hidden;  
 }
-
+.side-menu .localLinks ul {
+  width: 100%;
+  text-align: left;
+}
 
 
 /* switch menu side */
