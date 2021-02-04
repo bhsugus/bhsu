@@ -5937,7 +5937,7 @@ a.tabLink {
   visibility:hidden;  
 }
 .localLinks ul li a:hover::after {
-  /*content: "\e080";*/
+  content: "\e080";
   font-family: 'Glyphicons Halflings';
   font-size: .7em;  
 }
