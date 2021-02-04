@@ -6674,8 +6674,7 @@ box-shadow: 1px 1px 1px;
 .viz0020 ul li a::before {
   content: "\e080";
   font-family: 'Glyphicons Halflings';
-  font-size: .7em;
-  font-weight: 900;
+  font-size: .7em;  
 }
 
 .viz0020 ul li a::after {
