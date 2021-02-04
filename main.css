@@ -5940,6 +5940,7 @@ a.tabLink {
   content: "\e080";
   font-family: 'Glyphicons Halflings';
   font-size: .7em;  
+  visibility: visible;
 }
 
 
