@@ -6651,6 +6651,7 @@ box-shadow: 1px 1px 1px;
   padding: 4px 7px 4px 0;
   margin-bottom: 1px;
   line-height: 1.4em;
+  background-color: rgba(0, 0, 0, .03);
 }
 
 .viz0020 ul li:hover {
@@ -6665,7 +6666,6 @@ box-shadow: 1px 1px 1px;
   font-family: BebasNeue;
   text-decoration: none;
   letter-spacing: 1.5px;
-  background: rgba(0, 0, 0, .03);
 }
 .viz0020 ul li a:link {
   display: block;
