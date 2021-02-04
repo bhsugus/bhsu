@@ -6626,6 +6626,57 @@ box-shadow: 1px 1px 1px;
   /*content: "\e080";*/
 }
 
+/* Viz20 Menu Convert */
+
+
+.viz0020 {
+  width: 100%;
+  height: auto;
+  /*background-color: rgba(0,0,0,.03);*/
+  padding-bottom: 20px;
+  z-index: 100 !important;
+  margin: 0 auto;
+}
+
+.viz0020 ul {
+  margin-left: 0 !important;
+  text-align: left;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+.viz0020 ul li {
+  list-style-type: none;
+  padding: 10px 0;
+  padding: 4px 7px 4px 0;
+  margin-bottom: 1px;
+  line-height: 1.4em;
+}
+
+.viz0020 ul li:hover {
+  background-color: #ffc726;
+  /*border-left: 0.3em solid #000;*/
+}
+
+.viz0020 ul li a {
+  color: #000;
+  margin-right: 5px;
+  font-size: 1em;
+  font-family: BebasNeue;
+  text-decoration: none;
+  letter-spacing: 1.5px;
+}
+.viz0020 ul li a:link {
+  display: block;
+}
+
+.viz0020 ul li a::before {
+  content: "\e080";
+  font-family: 'Glyphicons Halflings';
+  font-size: .7em;
+  font-weight: 900;
+}
+
 /* Dumb Fix */
 
 .viz0019 .reg-bullets ul {
