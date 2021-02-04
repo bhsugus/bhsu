@@ -5921,7 +5921,7 @@ a.tabLink {
   width: 100%;
 }
 .localLinks ul {
-  text-align: left;
+  text-align: center;
 }
 .localLinks ul li a:link {
   display: block;
@@ -6666,7 +6666,7 @@ box-shadow: 1px 1px 1px;
 
 .viz0020 ul {
   margin-left: 0 !important;
-  text-align: left;
+  text-align: center;
   padding: 0;
   margin-bottom: 0;
 }
@@ -6704,6 +6704,9 @@ box-shadow: 1px 1px 1px;
 }
 
 .viz0020 ul li a::after {
+  visibility:hidden;  
+}
+.viz0020 ul li a:hover::after {
   visibility:hidden;  
 }
 
