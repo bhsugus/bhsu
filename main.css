@@ -5449,7 +5449,7 @@ details[open] .control-icon-expand {
   margin: auto;
   padding-top: 20px;
 }
-.responsiveTabs .nav>li {
+.responsiveTabs .nav li {
   display: inline-block;
 }
 
