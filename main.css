@@ -5451,6 +5451,7 @@ details[open] .control-icon-expand {
 }
 .responsiveTabs .nav-tabs {
   text-align: center;
+  border-bottom: none;
 }
 .responsiveTabs .nav li {
   display: inline-block;
