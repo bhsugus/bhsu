@@ -5946,7 +5946,7 @@ a.tabLink {
 
 .side-menu .localLinks ul {
   width: 100%;
-  text-align: left;
+  text-align: center;
   /*background-color: rgba(0, 0, 0, .03);*/
 }
 .side-menu .localLinks ul li {
