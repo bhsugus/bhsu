@@ -8023,6 +8023,9 @@ width: 100%;
   color: #fff;
 }
 /* Cascade */
+
+.marge {margin: 0 15px}
+
 #sticky-logo {
   height: 60px;
   float: left;
