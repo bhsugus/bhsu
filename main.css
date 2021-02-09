@@ -8891,14 +8891,14 @@ padding-top: 30px;
     text-align: center;
   }
 
-  .side-menu-toplink::after {
+  /*.side-menu-toplink::after {
     font-size: 30px;
-    /*content: "\f0d7";*/
+    content: "\f0d7";
     font-weight: 700;
     color: #fff;
     font-family: "Font Awesome 5 Free";
     visibility: hidden;
-  }
+  }*/
 
   #social-strip img {
     float: none;
