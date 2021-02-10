@@ -3557,7 +3557,7 @@ a.rc-testi-box-button:link {
 .topgal ul li {
 	position: relative;
   margin: 5px;
-	width: 300px;
+	max-width: 400px;
 	overflow: hidden;
 }
 
