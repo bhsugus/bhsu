@@ -5431,6 +5431,10 @@ details[open] .control-icon-expand {
 
 /* bootstrap hacks */
 
+.bstrap30 .tab-content {
+  border-top: 1px solid #ddd;
+}
+
 .label {text-align: unset;}
 
 #myTabContent:focus {
