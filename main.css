@@ -3570,7 +3570,7 @@ a.rc-testi-box-button:link {
 	background-color: #000;
 	content: '';
 	color: white;
-	opacity: 0.4;
+	opacity: 0.2;
 	text-align: center;
 	box-sizing: border-box;
 	pointer-events: none;
