@@ -4226,6 +4226,13 @@ section {
 /* end plain box yellow */
 
 
+.striped-bar {
+  background-image: url(https://www.bhsu.edu/portals/0/Rapid-City/Marketing/Landing-Pages/images/diagonal-strip.jpg);
+  opacity: 0.3;
+  z-index: -1;
+  position: relative;
+}
+
 /* RC Campaign Cards 3 Begin */
 .rccc-card-container {
   -webkit-perspective: 1100;
