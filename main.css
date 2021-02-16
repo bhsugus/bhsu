@@ -4664,7 +4664,21 @@ margin: 24px 0;
   z-index: 999;
   position: relative;
 }
-
+#rc-slogan {
+  padding-top: 75px;
+  left: calc(25% - 150px);
+  position: absolute;
+  font-size: 4em;
+  line-height: 1em;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  color: #0a4525;
+  width: 30%;
+  opacity: 1;
+  text-transform: uppercase;
+  z-index: 100;
+  text-align: center /*text-shadow: 1px 2px 1px #102542;*/;
+}
 /* Slider */
 .slick-slider
 {
