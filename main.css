@@ -4566,7 +4566,10 @@ margin: 24px 0;
 .rcc-half-green {
   overflow: hidden;
 }
-
+#rc-slider-overlay-content #rc-slogan span {
+  position: relative;
+  z-index: 100;
+}
 
 /* RC Campaign Cards 1  */
 
@@ -4679,6 +4682,8 @@ margin: 24px 0;
   z-index: 100;
   text-align: center /*text-shadow: 1px 2px 1px #102542;*/;
 }
+
+
 /* Slider */
 .slick-slider
 {
@@ -4798,7 +4803,21 @@ margin: 24px 0;
 .slick-arrow.slick-hidden {
     display: none;
 }
-
+#rc-slider-overlay-content::before {
+  content: " ";
+  background-color: #fff;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 50%;
+  height: 100%;
+  z-index: 50;
+  transform: skewX(
+15deg
+);
+  transform-origin: bottom left;
+  opacity: 0.8;
+}
 
 
 
