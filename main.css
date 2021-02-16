@@ -4655,6 +4655,15 @@ margin: 24px 0;
   z-index: 10;
   font-size: 1.1em;
 }
+.yellow-bar {
+  background-image: url(https://www.bhsu.edu/portals/0/Rapid-City/Marketing/Landing-Pages/images/yellow-bar2.jpg);
+  background-size: cover;
+  height: 25px;
+  background-color: #ffc82c;
+  width: 100%;
+  z-index: 999;
+  position: relative;
+}
 
 
 
