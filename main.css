@@ -6416,6 +6416,14 @@ a.tabLink {
   width: 100%;
 }
 
+.BHSU-inner-container {
+  margin: 0 auto;
+  width: 90%;
+  padding-top: 0px;
+}
+
+
+
 /*
 .header-banner h2 {
     font-size: 3em;
