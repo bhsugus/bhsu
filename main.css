@@ -8964,6 +8964,12 @@ padding-top: 30px;
     padding-right: 5px;
     padding-left: 5px;
   }
+  .s-container {
+    width: 100%;
+    padding-right: 5px;
+    padding-left: 5px;
+    margin: 0 auto;
+  }
 
   .dropdown-menu .divider {
     height: 1px;
