@@ -751,11 +751,10 @@ embed, img, object {
   margin: 2px 10px 10px 0;
   padding: 4px 5px 5px 4px;
   text-align: center;  
+  text-decoration: none!important;
   width: 45px;
 }
-.bhsu-eventlink a {
-text-decoration: none;
-}
+
 
 .bhsu-month {
   display: block;
