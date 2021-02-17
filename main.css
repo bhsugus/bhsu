@@ -740,6 +740,21 @@ embed, img, object {
 
 }
 
+.bhsu-eventlink {
+  background: #ffc826 none repeat scroll 0 0;
+  color: #000;
+  display: inline-block;
+  float: left;
+  font-size: 20px;
+  height: 45px;
+  line-height: 18px;
+  margin: 2px 10px 10px 0;
+  padding: 4px 5px 5px 4px;
+  text-align: center;
+  text-decoration: none;
+  width: 45px;
+}
+
 .event-rightsidebar-default .bhsu-dateblock .bhsu-month {
   display: block;
   font-size: 11px;
