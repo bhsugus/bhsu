@@ -5741,7 +5741,7 @@ details[open] .control-icon-expand {
   padding-top: 20px;
 }
 .responsiveTabs .nav-tabs {
-  text-align: center;
+  /*text-align: center;*/
   border-bottom: none;
 }
 .responsiveTabs .nav li {
