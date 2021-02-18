@@ -3227,7 +3227,22 @@ video {
   margin: 10px;
   padding-top: 0px;
 }
-
+.eventDate p {
+  text-align: center;
+  font-size: 2.1em;
+  font-weight: bold;
+  color: #333;
+  margin-top: 6px;
+}
+.eventDate h3 {
+  text-align: center;
+  font-size: 1.2em;
+  color: #FFF;
+  margin: 0px;
+  background: #006233;
+  padding: 5px;
+  margin-top: 3px;
+}
 
 /* Secondary Pages */
 
