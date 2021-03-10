@@ -1981,6 +1981,7 @@ video {
   background-size: contain;
   background-repeat: no-repeat;
   font-size: 1em !important;
+  margin: 0 auto;
 }
 
 .tree-header {
