@@ -6319,12 +6319,14 @@ a.tabLink {
 .localLinks ul li a::after {
   visibility:hidden;  
 }
+/*
 .localLinks ul li a:hover::after {
   content: "\e080";
   font-family: 'Glyphicons Halflings';
   font-size: .7em;  
   visibility: visible;
 }
+*/
 
 
 .side-menu .localLinks ul {
