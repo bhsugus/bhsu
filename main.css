@@ -8575,9 +8575,9 @@ padding-top: 30px;
 }
 
 .gs-webResult.gs-result a.gs-title b {
-  background-color: #006233;
+  color: #006233;
   font-family: 'Lato';
-  font-size: 1.5em;
+  font-size: 1em;
   }
   
 .grid-item {
