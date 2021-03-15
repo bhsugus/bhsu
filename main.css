@@ -7175,6 +7175,7 @@ box-shadow: 1px 1px 1px;
   /*font-weight: 600;*/
   letter-spacing: 0.5px;
   font-family: Lato;
+  text-decoration: none;
 }
 
 .breadcrumbLink i {
