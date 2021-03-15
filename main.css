@@ -8553,9 +8553,11 @@ padding-top: 30px;
 }
 
 #search a {
+  color: #016234;
+  text-decoration: underline;
+  text-align: left;
+  font-family: 'Lato';
   font-size: 1.5em;
-  color: #fff;
-  text-decoration: none;
 }
 
 #search ul li a {
@@ -8566,6 +8568,12 @@ padding-top: 30px;
   color: #000;
 }
 
+.gs-webResult.gs-result a.gs-title:hover b {
+  color: #016234;
+  font-family: 'Lato';
+  font-size: 1.5em;
+  }
+  
 .grid-item {
   font-size: 2em;
   text-align: center;
