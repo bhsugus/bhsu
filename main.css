@@ -8568,8 +8568,8 @@ padding-top: 30px;
   color: #000;
 }
 
-.gs-webResult.gs-result a.gs-title:hover b {
-  
+.gs-webResult.gs-result a.gs-title b {
+  background-color: #006233;
   font-family: 'Lato';
   font-size: 1.5em;
   }
