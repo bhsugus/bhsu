@@ -8540,6 +8540,11 @@ padding-top: 30px;
   text-decoration: none;
 }
 
+.fa-search:before {
+  content: "\f002";
+  color: #fff;
+}
+
 #search {
   float: right;
 }
@@ -8553,7 +8558,7 @@ padding-top: 30px;
 }
 
 #search a {
-  
+ 
   text-decoration: underline;
   text-align: left;
   font-family: 'Lato';
@@ -8562,6 +8567,7 @@ padding-top: 30px;
 
 #search ul li a {
   font-size: 1em;
+  color: #fff;
 }
 
 #search ul li a:hover {
