@@ -8553,7 +8553,7 @@ padding-top: 30px;
 }
 
 #search a {
- 
+  color: #016234;
   text-decoration: underline;
   text-align: left;
   font-family: 'Lato';
@@ -8569,7 +8569,7 @@ padding-top: 30px;
 }
 
 .gs-webResult.gs-result a.gs-title:hover b {
-  color: #016234;
+  
   font-family: 'Lato';
   font-size: 1.5em;
   }
