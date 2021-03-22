@@ -5999,7 +5999,7 @@ button {
 .carousel-inner {
   position: relative;
   overflow: hidden;
-  padding-bottom: 20px;
+  /*padding-bottom: 20px;*/
 }
 
 a.tabLink {
