@@ -69,12 +69,10 @@ hr {
 
 /* Cascade ID to Class */
 #primary_header {
-  background-image: url('https://www.bhsu.edu/portals/0/Images/Banners/RapidCity1450/rc-primary-header.jpg');
   background-size: cover;
   background-position: center;
 }
 .primary_header {
-  background-image: url('https://www.bhsu.edu/portals/0/Images/Banners/RapidCity1450/rc-primary-header.jpg');
   background-size: cover;
   background-position: center;
 }
