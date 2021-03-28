@@ -6197,7 +6197,10 @@ a.tabLink {
   padding: 50px !important;
 }
 
-
+.spad-0 {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
 .spad-10 {
   padding: 0 10px !important;
 }
@@ -8811,6 +8814,9 @@ padding-top: 30px;
 /* Large Devices, Desktops */
 @media only screen and (max-width : 1200px) {
 
+  .home-announce h1 {
+    font-size: 2em;
+  }
   .logo-announce {
     width: 310px;
   }
@@ -8878,7 +8884,9 @@ padding-top: 30px;
 
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 992px) {
-
+  .logo-announce {
+    width: auto;
+  }
   .contactInfo {
     float: none;
     margin: 0 auto;
