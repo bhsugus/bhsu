@@ -371,6 +371,10 @@ embed, img, object {
 .bg-white-blank {
   background-color:#FFF;
 }
+.bg-green-blank {
+  background-color:#034626;
+  border-radius: 7px;
+}
 
 /* center block */
 
@@ -794,7 +798,7 @@ embed, img, object {
 
 #emergency {
   width: 100%;
-  background-color: #006233;
+  background-color: #000;
 }
 
 #emergency p {
