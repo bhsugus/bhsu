@@ -365,6 +365,9 @@ embed, img, object {
 .bg-yellow-slant {
   background: url(https://www.bhsu.edu/Portals/0/images/lines-long-BG.png) repeat-x #FFC706;
 }
+.bg-white-slant {
+  background: url(https://www.bhsu.edu/Portals/0/images/lines-long-BG.png) repeat-x #FFF;
+}
 
 /* center block */
 
