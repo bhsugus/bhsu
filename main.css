@@ -830,6 +830,10 @@ embed, img, object {
   margin-bottom: 40px!important;
   overflow: hidden;
 }
+
+.border-bottom-right {
+
+}
 .home-announce h1 {
   color: #fff;  
 }
@@ -8807,6 +8811,9 @@ padding-top: 30px;
 /* Large Devices, Desktops */
 @media only screen and (max-width : 1200px) {
 
+  .logo-announce {
+    width: 310px;
+  }
   .main-nav-menu {
     width: auto;
   }
