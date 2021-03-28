@@ -1037,7 +1037,7 @@ width: 95%;
 a.wbutton1 {
   display: inline-block;
   padding: .75em 1.5em;
-  border: 4px solid #fff;
+  border: 1.5px solid #333;
   margin: 0 0.5em 0.5em 0;
   border-radius: 100px;
   box-sizing: border-box;
@@ -1046,8 +1046,9 @@ a.wbutton1 {
   color: #fff;
   text-align: center;
   transition: all 0.2s;
-  font-family: Lato !important;
-  font-size: 1.0em;
+  font-family: Oswald !important;
+  font-size: 1.1em;
+  text-transform: uppercase;
 }
 
 a.wbutton1:hover {
