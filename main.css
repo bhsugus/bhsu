@@ -819,12 +819,16 @@ embed, img, object {
   color: #e8ba02;
   text-decoration: underline;
 }
-
-
-
-
 /*emergency banner end */
 
+
+/* home announce block */
+.home-announce h1 {
+  color: #fff;  
+}
+.home-announce p {
+  color: #fff;  
+}
 
 
 
@@ -1041,13 +1045,13 @@ width: 95%;
 a.wbutton1 {
   display: inline-block;
   padding: .75em 1.5em;
-  border: 2px solid #333;
+  border: 2px solid #fff;
   margin: 0 0.5em 0.5em 0;
   border-radius: 7px;
   box-sizing: border-box;
   text-decoration: none;
   font-weight: 500;
-  color: #333;
+  color: #fff;
   text-align: center;
   transition: all 0.2s;
   font-family: Oswald !important;
