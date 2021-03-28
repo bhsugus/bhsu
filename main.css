@@ -3780,7 +3780,7 @@ a.rc-testi-box-button:link {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .cool-shadow2 {
-  box-shadow: 20px 4px 8px 0 rgba(0, 0, 0, 0.05), 10px 6px 20px 0 rgba(0, 0, 0, 0.09);
+  box-shadow: 5px 4px 8px 0 rgb(0 0 0 / 5%), 5px 10px 25px 0 rgb(0 0 0 / 9%);
 }
 
 /* NEWS */
