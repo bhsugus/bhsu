@@ -823,6 +823,13 @@ embed, img, object {
 
 
 /* home announce block */
+
+.home-announce {
+  overflow: hidden;
+  margin-top: 40px!important;
+  margin-bottom: 40px!important;
+  overflow: hidden;
+}
 .home-announce h1 {
   color: #fff;  
 }
