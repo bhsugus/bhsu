@@ -372,7 +372,7 @@ embed, img, object {
   background-color:#FFF;
 }
 .bg-green-blank {
-  background-color:#006233;
+  background-color:#006937;
   border-radius: 7px;
 }
 
@@ -7225,7 +7225,7 @@ box-shadow: 1px 1px 1px;
 
 .stickery {
   width: 100%;
-  background-color: #f4b223;
+  background-color: #ffc726;
   /*background-color: #f1f1f1;*/
   text-align: center;
   z-index: 1000 !important;
