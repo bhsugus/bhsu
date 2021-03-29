@@ -3789,7 +3789,8 @@ a.rc-testi-box-button:link {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .cool-shadow2 {
-  box-shadow: 5px 4px 8px 0 rgb(0 0 0 / 5%), 5px 10px 25px 0 rgb(0 0 0 / 9%);
+  /*box-shadow: 5px 4px 8px 0 rgb(0 0 0 / 5%), 5px 10px 25px 0 rgb(0 0 0 / 9%);*/
+  box-shadow: 5px 5px 48px 0 rgb(0 0 0 / 5%), 5px 10px 15px 0 rgb(0 0 0 / 10%)
 }
 
 /* NEWS */
