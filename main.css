@@ -8819,7 +8819,7 @@ padding-top: 30px;
 /* Large Devices, Desktops */
 @media only screen and (max-width : 1200px) {
   .logo-video {
-    height: 245px; 
+    height: 247px; 
     width: 105%; 
     background-color: #fff;
   }
