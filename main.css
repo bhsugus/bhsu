@@ -728,7 +728,7 @@ embed, img, object {
 }
 
 .logo-announce {
-   width: 100%;
+   width: 110%;
    object-fit: cover !important;
 }
 
@@ -845,7 +845,6 @@ embed, img, object {
   color: #fff;  
   font-size: 14px;
 }
-
 
 
 
