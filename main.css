@@ -8821,9 +8821,7 @@ padding-top: 30px;
   .home-announce h1 {
     font-size: 2em;
   }
-  .logo-announce {
-    width: 310px;
-  }
+
   .main-nav-menu {
     width: auto;
   }
@@ -8889,9 +8887,7 @@ padding-top: 30px;
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 992px) {
   .logo-announce {
-    left: -15px;
-    position: relative;
-    width: 100%;
+    width: 105%;
   }
   .contactInfo {
     float: none;
