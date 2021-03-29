@@ -735,6 +735,7 @@ embed, img, object {
 
 
 
+
 /* prez calendar */
 .event-rightsidebar-default .bhsu-dateblock>a {
   background: #ffc826 none repeat scroll 0 0;
@@ -8888,6 +8889,11 @@ padding-top: 30px;
 @media only screen and (max-width : 992px) {
   .logo-announce {
     width: 105%;
+  }
+  .logo-video {
+    height: 245px; 
+    width: 105%; 
+    background-color: #fff;
   }
   .contactInfo {
     float: none;
