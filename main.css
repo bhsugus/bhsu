@@ -8886,6 +8886,8 @@ padding-top: 30px;
 @media only screen and (max-width : 992px) {
   .logo-announce {
     width: auto;
+    left: -15px;
+    position: relative;
   }
   .contactInfo {
     float: none;
