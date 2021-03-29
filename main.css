@@ -728,7 +728,7 @@ embed, img, object {
 }
 
 .logo-announce {
-   width: 110%;
+   width: 105%;
    object-fit: cover !important;
 }
 
