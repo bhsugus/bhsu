@@ -9599,7 +9599,9 @@ padding-top: 30px;
     float: left;
     height: 40px;
   }
-
+  .home-announce {
+    margin-top: 20px!important;
+  }
   .mobile-nav-logo .bhsu-logo {
     width: 50%;
   }
