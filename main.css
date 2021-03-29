@@ -8895,7 +8895,11 @@ padding-top: 30px;
   .logo-announce {
     width: 105%;
   }
-
+  .logo-video {
+    height: auto;
+    margin-left: -15px;
+  }
+  
   .contactInfo {
     float: none;
     margin: 0 auto;
