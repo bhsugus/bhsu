@@ -8818,7 +8818,11 @@ padding-top: 30px;
 
 /* Large Devices, Desktops */
 @media only screen and (max-width : 1200px) {
-
+  .logo-video {
+    height: 245px; 
+    width: 105%; 
+    background-color: #fff;
+  }
   .home-announce h1 {
     font-size: 2em;
   }
@@ -8876,11 +8880,7 @@ padding-top: 30px;
   .responsive-vid-no-shadow-356 {
     width: 100%
   }
-  .logo-video {
-    height: 245px; 
-    width: 105%; 
-    background-color: #fff;
-  }
+
 
 }
 
