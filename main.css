@@ -8876,6 +8876,11 @@ padding-top: 30px;
   .responsive-vid-no-shadow-356 {
     width: 100%
   }
+  .logo-video {
+    height: 245px; 
+    width: 105%; 
+    background-color: #fff;
+  }
 
 }
 
@@ -8890,11 +8895,7 @@ padding-top: 30px;
   .logo-announce {
     width: 105%;
   }
-  .logo-video {
-    height: 245px; 
-    width: 105%; 
-    background-color: #fff;
-  }
+
   .contactInfo {
     float: none;
     margin: 0 auto;
