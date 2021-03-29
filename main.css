@@ -727,6 +727,10 @@ embed, img, object {
   padding: 0 15% !important;
 }
 
+.logo-announce {
+   width: 100%;
+   object-fit: cover !important;
+}
 
 
 
@@ -839,6 +843,7 @@ embed, img, object {
 }
 .home-announce p {
   color: #fff;  
+  font-size: 14px;
 }
 
 
@@ -8885,9 +8890,9 @@ padding-top: 30px;
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 992px) {
   .logo-announce {
-    width: auto;
     left: -15px;
     position: relative;
+    width: 100%;
   }
   .contactInfo {
     float: none;
