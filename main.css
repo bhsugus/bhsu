@@ -1754,7 +1754,9 @@ video {
   padding: 60px 0;
   font-family: Poppins;
 }
-
+.copyright-container a {
+  color: #C0C0C0;
+}
 
 .rc-footer-logo {
   max-width: 250px;
