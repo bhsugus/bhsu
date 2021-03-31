@@ -6580,7 +6580,7 @@ a.fill-div {
     padding: 10px;
     color: white;
     margin: 0;
-    /*background-image: url(../img/Square-Green-Lines.png);*/
+    background-image: url(../img/Square-Green-Lines.png);
 background-repeat: repeat;
 background-size: contain;
 background-color: #016234;
@@ -6589,9 +6589,9 @@ letter-spacing: .03em;
 text-align: center;
 width: 100%;
 box-shadow: 1px 1px 1px;
-}
+}*/
 
-*/ .header-banner .yellow-banner {
+.header-banner .yellow-banner {
   color: black;
   background-color: #ffc829;
 }
