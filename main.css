@@ -1680,11 +1680,13 @@ video {
   z-index: 5;
   margin: 0 auto;
   text-align: center;
+  font-family: Poppins;
+  font-size: 16px;
+  color: #C0C0C0;
 }
 
 .contactInfo h1 {
   color: #FFF;
-  font-family: BebasRegular;
   letter-spacing: 0.1em;
   font-size: 30px;
   display: none;
@@ -1761,10 +1763,10 @@ video {
 }
 
 .footer-list {
-  font-family: BebasNeue;
-  letter-spacing: 0.1em;
+  font-family: Oswald;
   padding-top: 120px;
   list-style-type: none;
+  text-transform: uppercase;
 }
 
 .footer-list h2 {
