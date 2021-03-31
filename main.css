@@ -3891,7 +3891,7 @@ a.rc-testi-box-button:link {
   background: rgba(0, 0, 0, .03) url(https://www.bhsu.edu/images/accordionExpandableHead/expandIcon/predefined/expand2.png) no-repeat 97% center;
 }
 .eds_news_NewsMagazine.eds_subCollection_news .in_article_image {
-  background-color: #e5e5e5;
+  background-color: #fff;
   border: solid 1px #d1d2d3;
   border-radius: 4px;
   padding: 5px;
