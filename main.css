@@ -7978,7 +7978,7 @@ body {
   /*height: 315px;*/
   z-index: 1044;
   width: 100%;
-  position: absolute;
+  position: fixed;
   padding: 0;
 }
 
