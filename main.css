@@ -7980,7 +7980,10 @@ body {
 
 /* begin 624-SP-nav-6-20 - main navigation */
 
-
+nav.scroll {
+  background-color: rgba(0, 0, 0, 0.4);
+  transition: 1s;
+}
 #main-navigation {
   background-color: rgba(0, 0, 0, 0.1);
   /*background: linear-gradient(180deg,#000 0,rgba(0,0,0,.5) 40%,rgba(0,0,0,.17) 72%,transparent);*/
@@ -7993,10 +7996,7 @@ body {
   padding: 0;
 }
 
-nav.scroll {
-  background-color: rgba(0, 0, 0, 0.4);
-  transition: 1s;
-}
+
 
 #rc-main-navigation {
   background-color: #000;
