@@ -7993,6 +7993,10 @@ body {
   padding: 0;
 }
 
+nav.scroll {
+  background-color: #000;
+}
+
 #rc-main-navigation {
   background-color: #000;
   z-index: 1044;
