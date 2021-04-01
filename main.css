@@ -7994,7 +7994,7 @@ body {
 }
 
 nav.scroll {
-  background-color: #034224!important;
+  background-color: rgba(0, 0, 0, 0.4);
   transition: 1s;
 }
 
