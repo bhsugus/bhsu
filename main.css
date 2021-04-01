@@ -3798,6 +3798,11 @@ a.rc-testi-box-button:link {
   box-shadow: 5px 5px 48px 0 rgb(0 0 0 / 5%), 5px 10px 15px 0 rgb(0 0 0 / 10%)
 }
 
+#tab_1-courses {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 /* NEWS */
 
 .eds_news_NewsMagazine.eds_subCollection_news .edn_article.edn_simpleArticle:first-child {
