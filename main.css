@@ -7995,6 +7995,7 @@ body {
 
 nav.scroll {
   background-color: #034224!important;
+  transition: 1s;
 }
 
 #rc-main-navigation {
