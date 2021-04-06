@@ -1761,7 +1761,7 @@ video {
 }
 
 .rc-footer-logo {
-  /*max-width: 285px;*/
+  max-width: 385px;
   z-index: 5;
   padding: 10px;
 }
