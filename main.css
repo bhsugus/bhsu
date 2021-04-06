@@ -1770,13 +1770,13 @@ video {
   font-family: Oswald;
   padding-top: 120px;
   list-style-type: none;
-  text-transform: uppercase;
   letter-spacing: 1.05;
 }
 
 .footer-list h2 {
   letter-spacing: .05em;
   color: #fff;
+  text-transform: uppercase;
 }
 
 .footer-list ul {
@@ -1788,6 +1788,7 @@ video {
 
 .footer-list ul li {
   list-style-type: none;
+  line-height: 1.1em;
 }
 
 .footer-list a {
