@@ -295,6 +295,7 @@ section {
 
 embed, img, object {
   max-width: 100%;
+  height: auto;
 }
 .intro {
   padding-bottom: 60px;
