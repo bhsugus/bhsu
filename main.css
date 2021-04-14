@@ -5820,6 +5820,9 @@ details[open] .control-icon-expand {
   /*text-align: center;*/
   border-bottom: none;
 }
+.center-tabs {
+  text-align: center;
+}
 .responsiveTabs .nav li {
   display: inline-block;
 }
