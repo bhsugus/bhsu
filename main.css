@@ -1339,6 +1339,7 @@ span.suit-tie-button {
   -o-object-fit: cover !important;
   object-fit: cover !important;
   max-height: 90%;
+  height: auto;
 }
 
 .hero-video-container {
