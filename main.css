@@ -5526,6 +5526,7 @@ figure.effect-goliath p {
 /* Lily boxee customize */
 .grid {
   padding: 0;
+  margin: 0 -15px;
 }
 
 .grid a {
