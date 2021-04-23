@@ -5844,6 +5844,10 @@ details[open] .control-icon-expand {
   border: 1px solid rgba(0,0,0,.1);
   float: none;
 }
+.panel {
+  background-color: rgb(34 25 25 / 3%)
+}
+
 .panel-heading a:after {
   font-family: 'Glyphicons Halflings';
   content: "\e114";
