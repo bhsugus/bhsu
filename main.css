@@ -222,6 +222,10 @@ hr {
 
 /* new site */
 
+html {
+  scroll-behavior: smooth;
+}
+
 html,
 body {
   margin: 0;
@@ -300,6 +304,14 @@ embed, img, object {
 .intro {
   padding-bottom: 60px;
 }
+
+:target:before {
+  content: "";
+  display: block;
+  height: 100px;
+  margin: -100px 0 0;
+}
+
 
 #dnn_Left_Wide_Pane h1 {
   text-transform: uppercase;
