@@ -236,8 +236,10 @@ body {
 
 .h1,
 h1 {
-  font-family: BebasNeue, Oswald;
+  font-family: Oswald;
   color: #000;
+  text-transform: uppercase;  
+  font-size: 34px;
 }
 
 .fa {
