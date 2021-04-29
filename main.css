@@ -2853,6 +2853,10 @@ video {
 .career-boxer-events {
    border-color: #ffc233;
 }
+.career-boxer h1 {
+font-size: 26px;
+}
+
 .career-boxer h2 {
   font-weight: bold;
   font-size: 1.3em!important; 
