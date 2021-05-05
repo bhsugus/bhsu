@@ -3898,7 +3898,7 @@ a.rc-testi-box-button:link {
   line-height: 1.3;
 }
 .eds_news_NewsMagazine.eds_subCollection_news .edn_article.edn_simpleArticle h2.edn_articleTitle {
-  font-size: 24px;
+  font-size: 1.5em;
   color: #504e4e;
   transition: color 0.3s linear;
   font-family: oswald;
