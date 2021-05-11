@@ -3903,8 +3903,11 @@ a.rc-testi-box-button:link {
   transition: color 0.3s linear;
   font-family: oswald;
   text-transform: uppercase;
-  text-decoration: underline;
+
 }
+.eds_news_NewsMagazine.eds_subCollection_news .edn_article.edn_simpleArticle h2.edn_articleTitle:hover {
+    text-decoration: underline;
+}  
 .eds_news_NewsMagazine.eds_subCollection_news .edn_article .edn_articleTitle {
   margin-bottom: 5px;
 }
