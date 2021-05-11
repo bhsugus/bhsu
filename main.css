@@ -3917,7 +3917,7 @@ a.rc-testi-box-button:link {
   line-height: 1.1;
 }
 .eds_news_NewsMagazine.eds_subCollection_news .in_article_image.left {
-  float: right;
+  float: left;
   margin-right: 5px;
 }
 
