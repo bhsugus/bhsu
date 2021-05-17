@@ -6051,6 +6051,10 @@ button {
 
 /* side menu trick */
 
+.currently {
+  background-color: #FFC726!important;
+}
+
 .bstrap30 .section-title {
   margin-top: 10px;
 }
