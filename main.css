@@ -325,6 +325,10 @@ embed, img, object {
   font-size: 28px;
   font-family: Oswald;
 }
+.Right_Wide_Pane {
+  padding: 0;
+}
+
 .Right_Wide_Pane h1 {
   text-transform: uppercase;
 }
