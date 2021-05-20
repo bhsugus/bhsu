@@ -8481,9 +8481,6 @@ border-radius: 0px;*/
 }
 
 
-.marge {
-  margin: 0;
-}
 
 
 
@@ -9797,6 +9794,10 @@ padding-top: 30px;
     width: 35px;
     margin: 5px;
   }
+  .marge {
+    margin: 0;
+  }
+  
 /* cascade */
 
   #rc-main-navigation {
