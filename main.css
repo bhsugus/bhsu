@@ -1794,11 +1794,14 @@ video {
 .copyright-container a:hover {
   color: #FFC82C;
 }
+.copyright-container p {
+  font-size: 14px;
+}
 
 .rc-footer-logo {
   max-width: 235px;
   z-index: 5;
-  padding: 0 0 5px 10px;
+  padding: 20px 0 5px 10px;
 }
 
 .footer-list {
