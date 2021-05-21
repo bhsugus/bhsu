@@ -1788,6 +1788,7 @@ video {
 .copyright-container a {
   color: #C0C0C0;
   font-size: 14px;
+  padding-right: 25px;
 }
 
 .rc-footer-logo {
