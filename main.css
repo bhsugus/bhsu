@@ -9180,9 +9180,12 @@ padding-top: 30px;
 
 /* Small Devices, Tablets */
 @media (max-width: 768px) {
-
+  
   h1 {
     font-size: 30px;
+  }
+  .copyright-container {
+    margin-top: 20px;
   }
 
   .dropdown-menu>li>a {
@@ -9674,9 +9677,7 @@ padding-top: 30px;
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
   
-  .copyright-container {
-    margin-top: 20px;
-  }
+
   
   .bhsu-logo {
     float: left;
