@@ -1792,7 +1792,7 @@ video {
 .rc-footer-logo {
   max-width: 235px;
   z-index: 5;
-  padding: 10px;
+  padding: 0 0 5px 10px;
 }
 
 .footer-list {
