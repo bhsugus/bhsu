@@ -1791,6 +1791,9 @@ video {
   padding-right: 25px;
   text-decoration: none;
 }
+.copyright-container a:hover {
+  color: #FFC82C;
+}
 
 .rc-footer-logo {
   max-width: 235px;
