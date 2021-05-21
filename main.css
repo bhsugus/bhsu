@@ -1737,7 +1737,7 @@ video {
 }
 .contactInfo img {
   width: 25px;
-  padding-top: 5px;
+  padding-top: 10px;
 }
 .contactInfo .social-footer {
   text-decoration: none;
@@ -1790,7 +1790,7 @@ video {
 }
 
 .rc-footer-logo {
-  max-width: 285px;
+  max-width: 235px;
   z-index: 5;
   padding: 10px;
 }
