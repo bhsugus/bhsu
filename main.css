@@ -7002,7 +7002,11 @@ box-shadow: 1px 1px 1px;
   vertical-align: top;
   font-weight: 900;
 }
-.side-menu-toplink a::after {
+.side-menu-toplink a {
+  color: #fff !important;
+  font-size: 16px;
+}
+.side-menu-toplink a::after2 {
   font-size: .5em;
   font-weight: 900;
   vertical-align: middle;
@@ -7031,9 +7035,7 @@ box-shadow: 1px 1px 1px;
   background-color: #FFC82C !important;
 }
 
-.side-menu-toplink a {
-  color: #fff !important;
-}
+
 
 .side-menu-toplink a::after {
   /*content: none !important;*/
