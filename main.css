@@ -9673,6 +9673,11 @@ padding-top: 30px;
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
+  
+  .copyright-container {
+    margin-top: 20px;
+  }
+  
   .bhsu-logo {
     float: left;
     height: 45px;
