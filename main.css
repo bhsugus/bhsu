@@ -8675,11 +8675,10 @@ padding-top: 30px;
   background-color: #006233;
 }
 
-#search a {
- 
-  text-decoration: underline;
+#search a { 
+  text-decoration: none;
   text-align: left;
-  font-family: 'Lato';
+  font-family: 'Poppins';
   font-size: 1.5em;
 }
 
