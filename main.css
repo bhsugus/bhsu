@@ -1741,6 +1741,9 @@ video {
 .contactInfo .social-footer {
   text-decoration: none;
 }
+.copyright-container .social-footer {
+  text-decoration: none;
+}
 .contactSide {
   padding: 0;
   float: left;
