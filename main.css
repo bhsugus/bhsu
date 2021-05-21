@@ -3602,6 +3602,10 @@ a.rc-testi-box-button:link {
 /* Cascade */
 #programs {
   background-color: #FFC82C;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
 }
 .programs {
   background-color: #FFC82C;
