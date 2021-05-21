@@ -6973,10 +6973,10 @@ box-shadow: 1px 1px 1px;
   color: #000;
   margin: 10px 5px;
   font-size: 1.2em;
-  font-family: BebasNeue;
+  font-family: Oswald;
   text-decoration: none;
   letter-spacing: 1.1px;
-  
+  text-transform: uppercase;  
 }
 
 .side-menu ul li:hover {
@@ -7004,7 +7004,7 @@ box-shadow: 1px 1px 1px;
 }
 .side-menu-toplink a {
   color: #fff !important;
-  font-size: 16px;
+  font-size: 16px!important;
 }
 .side-menu-toplink a::after2 {
   font-size: .5em;
