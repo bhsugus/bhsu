@@ -1738,6 +1738,7 @@ video {
 .contactInfo img {
   width: 25px;
   padding-top: 5px;
+  text-decoration: none;
 }
 .contactSide {
   padding: 0;
