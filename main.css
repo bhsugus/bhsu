@@ -2220,7 +2220,7 @@ video {
 }
 
 .imglist h2 {
-  padding: 10px 0 0 0;
+  padding: 0;
   margin: 0;
   color: #016234;
   font-family: Bebasneue, Oswald, sans-serif;
@@ -9029,6 +9029,9 @@ padding-top: 30px;
   .imglist ul li {
     font-size: 1.3em;
     padding: 5px 0;
+  }
+  .imglist h2 {
+    padding: 10px 0 0 0;
   }
 
   .tree-content ul li {
