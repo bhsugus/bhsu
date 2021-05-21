@@ -3630,8 +3630,8 @@ a.rc-testi-box-button:link {
 
 /* adjusts section for target */
 .offset-header {
-  padding-top: 25px;
-  margin-top: -35px;
+  /*padding-top: 25px;*/
+  /*margin-top: -35px;*/
 }
 
 
@@ -5274,7 +5274,7 @@ figure.effect-goliath p {
 }
 
 figure.effect-goliath p {
-  font-size: 79%;
+  font-size: 69%;
 }
 
 .grid figure figcaption>a {
