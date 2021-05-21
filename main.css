@@ -1738,6 +1738,8 @@ video {
 .contactInfo img {
   width: 25px;
   padding-top: 5px;
+}
+.contactInfo .social-footer {
   text-decoration: none;
 }
 .contactSide {
