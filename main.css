@@ -2190,7 +2190,7 @@ video {
 .pizzabox a {
   font-family: Oswald;
   color: #016234;
-  text-decoration: underline;
+  text-decoration: none;
   text-transform: uppercase;
 }
 
