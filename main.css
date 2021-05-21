@@ -1718,6 +1718,7 @@ video {
 .contactInfo a {
   color: #C0C0C0;
   text-align: left;
+  text-decoration: none;
 }
 
 .contactInfo a:hover {
