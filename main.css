@@ -1734,15 +1734,13 @@ video {
   font-size: 16px;
   letter-spacing: .03em;
 }
-.contactInfo img {
-  width: 25px;
-  padding-top: 10px;
-}
 .contactInfo .social-footer {
   text-decoration: none;
 }
 .copyright-container .social-footer {
   text-decoration: none;
+  width: 25px;
+  padding-top: 10px;
 }
 .contactSide {
   padding: 0;
