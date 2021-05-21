@@ -8968,6 +8968,9 @@ padding-top: 30px;
 
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 992px) {
+  .copyright-container > p {
+    margin-top: 20px;
+  }
   .logo-announce {
     width: 105%;
   }
@@ -9184,9 +9187,7 @@ padding-top: 30px;
   h1 {
     font-size: 30px;
   }
-  .copyright-container p {
-    margin-top: 20px;
-  }
+
 
   .dropdown-menu>li>a {
     background-color: #fff;
