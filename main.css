@@ -1735,6 +1735,10 @@ video {
   font-size: 16px;
   letter-spacing: .03em;
 }
+.contactInfo img {
+  width: 25px;
+  padding-top: 5px;
+}
 .contactSide {
   padding: 0;
   float: left;
