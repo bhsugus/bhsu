@@ -6987,7 +6987,7 @@ box-shadow: 1px 1px 1px;
   color: #016234;
 }
 
-.side-menu ul li a::after {
+.side-menu ul li a::after2 {
   font-size: .5em;
   /*content: " \f531";*/
   font-weight: 900;
@@ -7191,12 +7191,13 @@ box-shadow: 1px 1px 1px;
 
 .viz0020 ul li a {
   color: #000;
-  margin-right: 5px;
-  font-size: 1.15em;
-  font-family: BebasNeue;
+  /* margin-right: 5px; */
+  font-size: 14px;
+  font-family: 'Oswald';
   text-decoration: none;
   letter-spacing: 1.1px;
-  margin: 10px 5px;
+  /* margin: 10px 5px; */
+  text-transform: uppercase;
 }
 .viz0020 ul li a:link {
   display: block;
