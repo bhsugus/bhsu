@@ -3630,8 +3630,8 @@ a.rc-testi-box-button:link {
 
 /* adjusts section for target */
 .offset-header {
-  /*padding-top: 25px;*/
-  /*margin-top: -35px;*/
+  padding-top: 25px;
+  margin-top: -35px;
 }
 
 
