@@ -1789,6 +1789,7 @@ video {
   color: #C0C0C0;
   font-size: 14px;
   padding-right: 25px;
+  text-decoration: none;
 }
 
 .rc-footer-logo {
