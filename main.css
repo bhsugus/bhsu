@@ -5841,6 +5841,8 @@ details[open] .control-icon-expand {
 
 .label {text-align: unset;}
 
+.nav-tabs {margin-left: 15px;}
+
 #myTabContent:focus {
   outline-width: 0!important;
 }
