@@ -883,7 +883,7 @@ a.button1, a.green-button {
   transition: all 0.2s;
   font-family: Lato !important;
   font-size: 1.1em !important;
-  background-color: #006233;
+  background-color: #034224;
   letter-spacing: 0.6;
   font-family: Oswald !important;
   box-shadow: 0 3px 10px 0 rgba(0, 0, 0, .15);
@@ -7051,7 +7051,7 @@ box-shadow: 1px 1px 1px;
 }
 
 .side-menu-toplink:hover {
-  background-color: #016234 !important;
+  background-color: #034224 !important;
 }
 
 /* google search results overlay hacks */
