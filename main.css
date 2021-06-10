@@ -5424,6 +5424,9 @@ figure.effect-goliath p {
   margin-bottom: 50px;
   max-width: 500px;
 }
+.only-one img {
+  border-radius: 10px;
+}
 
 .only-one h2 {
   font-family: BebasNeue;
