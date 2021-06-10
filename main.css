@@ -7057,7 +7057,7 @@ box-shadow: 1px 1px 1px;
     content:url('./images/logo-block.png')
 } */
 .side-menu-toplink a:hover {
-  color: #FFC82C !important;
+  color: #FFF !important;
 }
 
 .side-menu-toplink:hover {
