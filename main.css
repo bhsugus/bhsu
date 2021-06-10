@@ -325,7 +325,7 @@ embed, img, object {
   font-family: Oswald;
 }
 .Right_Wide_Pane {
-  padding: 0;
+  padding-left: 15px;
 }
 
 .Right_Wide_Pane h1 {
