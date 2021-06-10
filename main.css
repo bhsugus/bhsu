@@ -3959,6 +3959,10 @@ a.rc-testi-box-button:link {
   margin-bottom: 5px;
   max-width: 100%;
 }
+.in_article_image img {
+  border: 1px solid #006233;
+}
+
 .eds_news_NewsMagazine .edn_clearFix:after {
   display: table;
   content: "";
