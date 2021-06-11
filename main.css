@@ -6170,7 +6170,7 @@ a.tabLink {
 .nav-tabs>li.active>a,
 .nav-tabs>li.active>a:focus,
 .nav-tabs>li.active>a:hover {
-  background-color: #034224 !important;
+  background-color: #006233 !important;
   font-family: Oswald, sans-serif;
   text-transform: uppercase;
   color: #ffc726  !important;
@@ -7035,7 +7035,7 @@ box-shadow: 1px 1px 1px;
 
 .side-menu-toplink {
   font-size: 1.4em;
-  background-color: #034224 !important;
+  background-color: #006233 !important;
   /*border-left: 0.3em solid #000;*/
 }
 
