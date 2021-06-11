@@ -5870,7 +5870,7 @@ details[open] .control-icon-expand {
 .responsiveTabs .nav-tabs {
   /*text-align: center;*/
   border-bottom: none;
-  margin-left: 15px;
+  /*margin-left: 15px;*/
 }
 .center-tabs {
   text-align: center;
