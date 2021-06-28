@@ -1923,6 +1923,11 @@ video {
   margin: 40px 20px;
 }
 
+.swapper img {
+  max-width: 500px
+  margin: 0 10px;
+}
+
 .swapper .img-top {
   display: none;
   position: absolute;
