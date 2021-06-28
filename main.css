@@ -1920,7 +1920,7 @@ video {
 .swapper {
   position: relative;
   display: inline-block;
-  margin: 20px;
+  margin: 40px 20px;
 }
 
 .swapper .img-top {
