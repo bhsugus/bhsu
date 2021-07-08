@@ -2958,6 +2958,9 @@ font-size: 26px;
   background-color: #FFF;
   margin: 40px auto;
   border: solid #FFC726;
+  width: 95%;
+  margin-bottom: 40px;
+  border: solid #ddd;
 }
 
 .white-box-section-content .top-image {
