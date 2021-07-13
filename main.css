@@ -7077,6 +7077,9 @@ box-shadow: 1px 1px 1px;
 .gs-title {
   /*height: 3em !important;*/
 }
+.search-results .gsc-control-cse {
+  background-color: #fff;
+}
 
 .gs-image {
   padding: 0 !important;
