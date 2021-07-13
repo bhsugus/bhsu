@@ -7077,7 +7077,15 @@ box-shadow: 1px 1px 1px;
 .gs-title {
   /*height: 3em !important;*/
 }
-.search-results > .gsc-control-cse {
+
+.gsc-results .gsc-cursor-box .gsc-cursor-page {
+  border-color: #CCCCCC;
+  background-color: #FFFFFF;
+  color: #CCCCCC;
+}
+
+
+.search-results .gsc-control-cse {
   background-color: #fff;
 }
 
