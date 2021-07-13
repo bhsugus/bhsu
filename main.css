@@ -6525,7 +6525,7 @@ a.tabLink {
 }
 
 .cbp-spmenu-vertical {
-  overflow-x: hidden;
+  /*overflow-x: hidden;*/
 }
 
 .input-group-btn:last-child>.btn,
