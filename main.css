@@ -7075,7 +7075,7 @@ box-shadow: 1px 1px 1px;
 
 /* google search results overlay hacks */
 .gs-title {
-  height: 3em !important;
+  /*height: 3em !important;*/
 }
 
 .gs-image {
