@@ -7077,7 +7077,7 @@ box-shadow: 1px 1px 1px;
 .gs-title {
   /*height: 3em !important;*/
 }
-.search-results .gsc-control-cse {
+.search-results > .gsc-control-cse {
   background-color: #fff;
 }
 
