@@ -8071,7 +8071,7 @@ nav.scroll {
   /*background: linear-gradient(180deg,#07210899 0,rgba(0, 0, 0, 0.36) 40%,rgba(0,0,0,.17) 72%,#3a540f00);*/
   height: 82px;
   /*height: 315px;*/
-  z-index: 1044;
+  z-index: 104;
   width: 100%;
   position: fixed;
   padding: 0;
