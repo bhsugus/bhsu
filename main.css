@@ -2213,9 +2213,10 @@ video {
   margin-top: 0px;
 }
 
-.pizzabox-ellsworth {
+.pizzabox-ellsworth a {
   text-decoration: underline;
   font-size: 16px;
+  padding: 0 10px;
 }
 
 /* end pizza box */
