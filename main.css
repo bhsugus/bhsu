@@ -2644,7 +2644,7 @@ video {
   margin: 20px auto;
   max-width: 500px;
   position: relative;
-  height: 400px;
+  /*height: 400px;*/
   position: relative;
   overflow: hidden;
 }
