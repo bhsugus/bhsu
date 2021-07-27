@@ -534,8 +534,8 @@ embed, img, object {
 }
 
 .we-are {
-  font-size: 13em;
-  line-height: .65;
+  font-size: 12em;
+  line-height: .85;
   text-shadow: 2px 2px 2px #626060;
   margin-left: -2px;
 }
@@ -579,7 +579,7 @@ embed, img, object {
   top: 20%;
   height: auto;
   width: 400px;
-  font-family: BebasNeue !important;
+  font-family: Oswald !important;
   vertical-align: middle;
   color: white;
   padding-top: 20px;
