@@ -1989,7 +1989,7 @@ video {
   padding: 5px;
   box-shadow: 1px 1px 2px;
   font-family: Poppins;*/
-  text-decoration: none;
+  text-decoration: none!important;
 }
 
 .responsive {
@@ -4196,8 +4196,8 @@ section {
 
 .eds_news_NewsMagazine.eds_subCollection_news .edn_article.edn_simpleArticle .edn_articleSummary {
   padding: 0;
-  font-family: Merriweather!important;
-  font-size: 16px!important;
+  font-family: Lato!important;
+  font-size: 15px!important;
 }
 
 .edn_articleSummary img {
