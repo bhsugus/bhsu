@@ -6645,7 +6645,7 @@ a.tabLink {
   position: relative;
   height: auto;
   position: relative;
-
+  background-color: #000;
 }
 
 .header-banner img {
