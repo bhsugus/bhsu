@@ -2648,6 +2648,8 @@ video {
 .apply-card h2 {
   padding-bottom: 0;
   margin-bottom: 0;
+  padding-top: 0;
+  margin-top: 0;
 }
 .apply-card h3 {
   padding-top: 0;
