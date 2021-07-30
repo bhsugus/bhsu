@@ -896,7 +896,7 @@ a.button1, a.green-button {
 }
 
 a.button1:hover, a.green-button:hover {
-  color: #000;
+  color: #000!important;
   background-color: #FFC726;
 
 }
