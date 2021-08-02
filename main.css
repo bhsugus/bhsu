@@ -2640,8 +2640,7 @@ video {
   border: 1px solid #cecece;
   border-radius: 5px;
   width: 95%;
-  min-height: 110px;
-  padding: 10px;
+  min-height: 110px;  
   margin-bottom: 30px;
   background-color: #fbfbfb;
   /* margin: 15px */
@@ -2663,7 +2662,9 @@ video {
   transition: 0.3s;
 }
 
-
+.apply-card-content {
+  padding: 10px;
+}
 
 
 /* MMM Photo Box */
