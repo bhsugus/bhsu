@@ -2678,6 +2678,9 @@ legend {
   border-bottom: none;
   font-weight: bold;
 }
+.clive-legend {
+  padding: 5pt 5pt 0 0!important;
+}
 
 /* MMM Photo Box */
 
