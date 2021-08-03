@@ -2710,6 +2710,10 @@ label {
   font-weight: bold;
   text-decoration: underline;
 }
+.clive-form-description-wrapper {
+   font-size: 1.7em;
+  text-transform: uppercase;
+}
 
 /* MMM Photo Box */
 
