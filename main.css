@@ -2697,7 +2697,7 @@ label {
 }
 .clive-submit-wrapper:hover {
   color: #000!important;
-  background-color: #c0b9a5!important;
+  background-color: #FFC726!important;
   font-weight: bold!important;
 }
 .clive-indication-required .clive-field-wrapper.clive-required > label:first-child:after, .clive-indication-required .clive-field-wrapper.clive-required .clive-legend-wrapper > legend:first-child:after {
