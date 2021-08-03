@@ -2716,6 +2716,9 @@ label {
 .clive-checkboxes label {
   font-weight: normal;
 }
+.clive-radiobuttons label {
+  font-weight: normal;
+}
 /* MMM Photo Box */
 
 #photo-box-campus {
