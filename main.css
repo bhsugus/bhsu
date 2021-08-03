@@ -2688,6 +2688,9 @@ legend {
 label {
   display: block;
 }
+.clive-submit-wrapper {
+  max-width: 200px;
+}
 
 /* MMM Photo Box */
 
