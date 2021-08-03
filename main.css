@@ -2708,6 +2708,7 @@ label {
 }
 .clive-section-heading {
   font-weight: bold;
+  text-decoration: underline;
 }
 
 /* MMM Photo Box */
