@@ -2711,7 +2711,7 @@ label {
   text-decoration: underline;
 }
 .clive-form-description-wrapper {
-   font-size: 1.7em;
+  font-size: 1.7em!important;
   text-transform: uppercase;
 }
 
