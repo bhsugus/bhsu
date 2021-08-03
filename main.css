@@ -2671,7 +2671,7 @@ video {
   max-width: 800px;
 }
 .clive-field textarea {
-  height: 100px;
+  height: 100px!important;
 }
 
 /* MMM Photo Box */
