@@ -2702,7 +2702,6 @@ label {
 }
 .clive-indication-required .clive-field-wrapper.clive-required > label:first-child:after, .clive-indication-required .clive-field-wrapper.clive-required .clive-legend-wrapper > legend:first-child:after {
   color: red;
-  font-weight: bold;
   margin-left: -4px;
   font-size: 1.2em;
 }
@@ -2713,9 +2712,10 @@ label {
 .clive-form-description-wrapper {
   font-size: 1.7em!important;
   text-transform: uppercase;
-  
 }
-
+/clive-checkboxes label {
+  font-weight: normal;
+}
 /* MMM Photo Box */
 
 #photo-box-campus {
