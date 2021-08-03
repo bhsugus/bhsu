@@ -2695,6 +2695,10 @@ label {
   font-family: Oswald !important;
   border-radius: 7px;
 }
+.clive-submit-wrapper:hover {
+color: #000!important;
+background-color: #FFC726;
+}
 .clive-indication-required .clive-field-wrapper.clive-required > label:first-child:after, .clive-indication-required .clive-field-wrapper.clive-required .clive-legend-wrapper > legend:first-child:after {
   color: red;
   font-weight: bold;
