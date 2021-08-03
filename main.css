@@ -2713,7 +2713,7 @@ label {
   font-size: 1.7em!important;
   text-transform: uppercase;
 }
-/clive-checkboxes label {
+.clive-checkboxes label {
   font-weight: normal;
 }
 /* MMM Photo Box */
