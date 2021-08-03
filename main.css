@@ -2690,6 +2690,9 @@ label {
 }
 .clive-submit-wrapper {
   max-width: 200px;
+  color: #fff!important;
+  background-color: #034224;
+  font-family: Oswald !important;
 }
 .clive-indication-required .clive-field-wrapper.clive-required > label:first-child:after, .clive-indication-required .clive-field-wrapper.clive-required .clive-legend-wrapper > legend:first-child:after {
   color: red;
