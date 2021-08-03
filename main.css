@@ -2682,6 +2682,13 @@ legend {
   padding: 5pt 5pt 0 0!important;
 }
 
+.clive-field-wrapper .clive-radiobuttons > * + *, .clive-field-wrapper .clive-checkboxes > * + * {
+  margin-left: 0px!important;
+}
+label {
+  display: block;
+}
+
 /* MMM Photo Box */
 
 #photo-box-campus {
