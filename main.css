@@ -2666,6 +2666,13 @@ video {
   padding: 10px;
 }
 
+/* Clive Forms */
+.clive-form {
+  max-width: 800px;
+}
+.clive-field textarea {
+  height: 100px;
+}
 
 /* MMM Photo Box */
 
