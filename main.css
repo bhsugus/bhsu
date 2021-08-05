@@ -2669,7 +2669,7 @@ video {
 }
 
 /* Form Assembly */
-.reqMark {
+.reqMark, .onefield {
   color: #000!important;
   font-size: 14px!important;
   font-weight: bold;
