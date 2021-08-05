@@ -2669,7 +2669,7 @@ video {
 }
 
 /* Form Assembly */
-.reqMark, .wForm .inline div.oneField {
+.reqMark, .wForm .inline div.oneField label {
   color: #000!important;
   font-size: 14px!important;
   font-weight: bold;
