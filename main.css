@@ -10220,6 +10220,7 @@ padding-top: 30px;
 .header-overlay-black-ann {
   float: right;
   width: 100%;
+  margin-top: 5px;
 }
 
 .header-overlay-black-message-ann {
