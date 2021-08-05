@@ -2669,7 +2669,11 @@ video {
 }
 
 /* Form Assembly */
-
+.reqMark {
+  color: #000!important;
+  font-size: 14px!important;
+  font-weight: bold;
+}
 .wFormContainer .oneChoice .label {
   color: #000!important;
   font-size: 14px!important;
