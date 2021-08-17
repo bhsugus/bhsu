@@ -634,6 +634,7 @@ embed, img, object {
   text-shadow: 2px 2px 2px #626060;
   font-family: Oswald !important;
   text-decoration: none;
+  letter-spacing: 3;
 }
 
 .front-video-overlay2 h3 a:hover {
