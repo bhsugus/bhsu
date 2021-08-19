@@ -2187,7 +2187,7 @@ video {
 .pizzabox {
   max-width: 275px;
   text-align: center;
-  margin: 50px auto;
+  margin: 40px auto 0 auto;
   height: auto;
   padding: 10px;
   display: table;
@@ -9835,7 +9835,9 @@ padding-top: 30px;
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
   
-
+  .announcement-banner {
+    display: unset;
+  }
   
   .bhsu-logo {
     float: left;
@@ -10164,10 +10166,6 @@ padding-top: 30px;
   .front-video-announce-wrap {
     top: 28%;
     left: 5%;
-  }
-
-  .announcement-banner {
-    display: unset;
   }
 
   /*emergency */
