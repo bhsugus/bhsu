@@ -10166,6 +10166,9 @@ padding-top: 30px;
     left: 5%;
   }
 
+  .announcement-banner {
+    display: none;
+  }
 
   /*emergency */
   #emergency p {
