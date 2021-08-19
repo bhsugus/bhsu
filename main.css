@@ -6988,6 +6988,14 @@ box-shadow: 1px 1px 1px;
   transform: scale(1.1);
 }
 
+/* Content Announcement Banner */
+.announcement-banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
 
 
 /* SP side menu */
