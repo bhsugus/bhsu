@@ -6996,7 +6996,9 @@ box-shadow: 1px 1px 1px;
   justify-content: center;
   text-align: center;
 }
-
+.content-announce {
+  text-align: center;
+}
 
 
 /* SP side menu */
