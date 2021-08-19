@@ -9841,7 +9841,9 @@ padding-top: 30px;
   .announcement-banner {
     display: unset;
   }
-  
+  .swapper img {
+    max-width: 250px;
+  }  
   .bhsu-logo {
     float: left;
     height: 45px;
