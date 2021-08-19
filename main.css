@@ -10167,7 +10167,7 @@ padding-top: 30px;
   }
 
   .announcement-banner {
-    display: none;
+    display: unset;
   }
 
   /*emergency */
