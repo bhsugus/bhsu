@@ -1924,11 +1924,11 @@ video {
 .swapper {
   position: relative;
   display: inline-block;
-  margin: 40px 20px;
+  margin: 40px 10px 20px 10px;
 }
 
 .swapper img {
-  max-width: 500px;
+  max-width: 350px;
   margin: 0 10px;
 }
 
