@@ -842,11 +842,12 @@ embed, img, object {
 
 #emergency a {
   color: #fff;
+  text-decoration: none;
 }
 
 #emergency a:hover {
   color: #e8ba02;
-  text-decoration: none;
+  text-decoration: underline;
 }
 /*emergency banner end */
 
