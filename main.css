@@ -846,7 +846,7 @@ embed, img, object {
 
 #emergency a:hover {
   color: #e8ba02;
-  text-decoration: underline;
+  text-decoration: none;
 }
 /*emergency banner end */
 
